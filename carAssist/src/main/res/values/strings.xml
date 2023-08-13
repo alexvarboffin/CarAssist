@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CarAssist</string>
+    <string name="action_settings">Settings</string>
+  
+    <string name="ip_setting">Devices</string>
+    <string name="dvr_device">＋</string>
+    <string name="refresh">Refresh</string>
+    <string name="up_folder">Up</string>
+
+    <string name="multiple">Select</string>
+    <string name="cancel_multiple">Cancel Select</string>
+    <string name="select_all">Select All</string>
+    <string name="unselect_all">Unselect All</string>
+    <string name="show_tip">Show Tips Again</string>
+    
+    <string name="setting_volume">Volume of DVR</string>
+    <string name="setting_brightness">Brightness of DVR</string>
+    <string name="setting_wake_up">Sensity of Voice Wakeup</string>
+    <string name="volume_and_brightness">Volume and Brightness</string>
+    <string name="setting_wake_up_close">Close</string>
+    <string name="setting_wake_up_low">Low</string>
+    <string name="setting_wake_up_mid">Middle</string>
+    <string name="setting_wake_up_high">High</string>
+    
+    <string name="open_file">Open</string>
+    <string name="download_file">Download</string>
+    <string name="cancel_download">Cancel DownLoad</string>
+    <string name="delete_file">Delete</string>
+    <string name="cancle_file">Cancel</string>
+    <string name="share_flie">Share</string>
+    
+    <string name="tip_preview">Camera Preview</string>
+    <string name="preview_record">Video</string>
+    <string name="preview_photo">Photo</string>
+
+    <string name="tip_softap_open">SoftAP Have Opened</string>
+    <string name="tip_softap_close">SoftAP Have Closed</string>
+    <string name="tip_connected">Connected</string>
+    <string name="tip_no_connect">No Connection</string>
+    <string name="tip_connecting">Connecting</string>
+    <string name="no_recorder">No found devices</string>
+    
+    <string name="tip_delete_success">Delete Successfully</string>
+    <string name="tip_delete_fail">Delete Unsuccessfully</string>
+    <string name="tip_download_success">Download Successfully</string>
+    <string name="tip_download_fail">Download Unsuccessfully</string>
+    <string name="tip_deleting_file">Deleting Files</string>
+    
+    <string name="tip_newversion_title">Version Upgrading</string>
+    <string name="tip_newversion_message">New version found, download now?</string>
+    <string name="tip_newversion_downloading">Downloading</string>
+    <string name="tip_newversion_download_quiet">Downloading in background</string>
+    <string name="tip_newversion_download_fail">Update failed</string>
+    
+    <string name="control_cling_title" >Me</string>
+    <string name="control_cling_item" >After bind the recorder device, you can take picture or video remotely, or view history GPS track.</string>
+
+    <string name="preview_cling_title" >DVR(Digital Video Recorder)</string>
+    <string name="preview_cling_item" >Preview DVR\'s cameras, take picture and change the DVR setting.\nDownload video and photo from DVR through WiFi.\nHave to keep your device and phone in the same WiFi network.</string>
+    <string name="car_cling_title" >Car Life</string>
+    <string name="car_cling_item" >Share DVR\'s video and photo to people</string>
+    
+    <string name="phone_cling_title" >Phone Files</string>
+    <string name="phone_cling_item" >Here is the videos and pictures downloaded from recorder.\nClicking to open，long press to share or delete.</string>
+    <string name="cling_dismiss" >OK</string>
+    <string name="title_about" >CarAssist</string>
+    <string name="about" >About</string>
+    <string name="version_name" >Version:</string>
+    <string name="can_not_find_version_name" >Can not get version!</string>
+    <string name="sd_unmount" >Recorder has not SD,can not preview!</string>
+    <string name="ok" >OK</string>
+    <string name="install_message">Downloaded the latest version, install now?</string>
+    <string name="lastest_version">It\'s already the latest version!</string>
+    <string name="cancel">Cancel</string>
+    <string name="check_upate">Check New Version</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="send">Send</string>
+    <string name="no_address">No address inputed</string>
+    <string name="hint_input">Please input navigation address</string>
+    <string name="quit_title">Confirm</string>
+    <string name="quit_message">Do you want to quit CarAssist?</string>
+    
+    <string name="title_select_point">Select Point</string>
+    <string name="ok_select_point">Confirm</string>
+    <string name="cancel_select_point">Cancel</string>
+    <string name="query_message">Searching, please hold on...</string>
+    <string name="address_error">Can not get the detail of this address</string>
+    
+    <string name="alarm_detail">Alarm Detail</string>
+    <string name="alarm_device">Device Name</string>
+    <string name="alarm_title">Alarm Content</string>
+    <string name="alarm_time">Alarm Time</string>
+    <string name="alarm_map_info">Location</string>
+    <string name="alarm_front_capture">Picture From Front Camera</string>
+    <string name="alarm_rear_capture">Picture From Rear Camera</string>
+    <string name="alarm_capture_downloading">Downloading</string>
+    <string name="alarm_capture_none">None</string>
+    
+    <!-- flag 1 -->
+    <string name="tab_car_life">Car Life</string>
+    <string name="tab_preview">DVR</string>
+    <string name="tab_phone_file">Phone Files</string>
+    <string name="tab_cloud">Me</string>
+    
+    <string name="login_weixin">Login WeChat</string>
+    <string name="login_weixin_tip">Please use WeChat to login</string>
+    <string name="logout">Logout</string>
+    <string name="relogin">Relogin</string>
+    
+    <string name="device_fragment">Device Management</string>
+    <string name="track_fragment">GPS Track History</string>
+    <string name="monitor_fragment">Monitor and Alarm</string>
+    <string name="setting_fragment">Setting</string>
+    <string name="driver_score_fragment">Driver Score</string>
+    <string name="pickup_fragment">Smart Pickup</string>
+    <string name="message_fragment">Send Message</string>
+    <string name="datacard_fragment">Datacard Management</string>
+    <string name="appointment_fragment">Navigation Plan</string>
+    
+    <string name="delete">Delete</string>
+    <string name="tip_device">Binded Devices(Select one as default)</string>
+    <string name="tip_bond">Bind a new one</string>
+    <string name="scan">Scan devices</string>
+    <string name="add_device">Add device</string>
+    <string name="hint_serial">Please input serial number of device</string>
+    <string name="no_name">Nonamed</string>
+    
+    <string name="scan_text">Scan the DVR QR code</string>
+    <string name="scan_title">QR Code Scanning</string>
+    <string name="message_device">Device</string>
+    <string name="hint_message_adit">Please input your text message</string>
+    <string name="message_send">Send</string>
+    <string name="pickup_send">Send to my friends of WeChat</string>
+    
+    <string name="voice_button">Normal</string>
+    <string name="setting_button">Quick Setting</string>
+    <string name="track_button">Tracks</string>
+    <string name="file_button">DVR Files</string>
+    <string name="voice_tip">Voice</string>
+   
+    <string name="monitor_title">Important Events</string>
+    <string name="monitor_image">Photo\nCapture</string>
+    <string name="monitor_video">Video\nCapture</string>
+    <string name="monitor_live_preview">Live\nPreview</string>
+    <string name="topbar_share">Share</string>
+    
+    <string name="time">00:00</string>
+    
+    <string name="lock_file">Locked</string>
+    <string name="capture_file">Captured</string>
+    <string name="loop_file">Looping</string>
+    <string name="edit_file">Modified</string>
+
+    <string name="capture_short_video">10s Video Capture</string>
+    <string name="capture_short_video_time">%1$ds Video Capture</string>
+    <string name="capture_complete">Capture completed, saved to \'Phone Files\'</string>
+    <string name="playback">Play</string>
+    <string name="no_file">No image or video</string>
+    
+    <string name="setting_camera">Setting for video of monitor</string>
+    <string name="setting_camera_picture">Resolution for picture of monitor</string>
+    <string name="setting_camera_video">Time length for video of monitor</string>
+    <string name="setting_suggest">Suggestions and Feedback</string>
+    <string name="finish">Finish</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="share_video_title">Editing</string>
+    <string name="send_video_title">Submit</string>
+    <string name="share_video_origial">Raw Audio</string>
+    <string name="share_video_origial_music">Music</string>
+    <string name="save">Draft</string>
+    <string name="synchronization">Share to</string>
+    <string name="hint_send_video">Please input comment</string>
+    <string name="max_120_word">120 characters</string>
+    <string name="edit_conver">Drag the red line to choose cover</string>
+	<string name="postdetail_views">%1$d views</string>
+    <string name="postdetail_authorinfo">Author：</string>
+    <string name="postlist_count_zero">No posts</string>
+    <string name="post_network_error">Network error</string>
+    <string name="post_image_video_share">Share</string>
+    <string name="post_image_video_comment">&#160;%1$d</string>
+    <string name="post_image_video_up">&#160;%1$d</string>
+    <string name="post_image_video_delete">Delete</string>    
+    <string name="post_image_video_view">&#160; views</string>
+    <string name="post_empty_view_loading">Loading...</string>
+    <string name="post_view_time_inside2">A moment ago</string>
+    <string name="post_view_time_inside60"> minutes ago</string>
+    <string name="post_view_time_insidetoday">Today</string>
+    <string name="post_view_time_insideyesterday">Yesterday</string>
+    <string name="delete_postitem_confirm">Delete your post?</string>
+    <string name="post_share_user_default">CarAssist user</string>
+    <string name="post_share_to_msg"> send your a link</string>
+    <string name="post_share_user_title">【CarAssist】</string>
+    
+    <string name="failed_image">Taking photo failed</string>
+    <string name="fetching_image">Fetching image now...</string>
+    <string name="fetching_video">Fetching video now...</string>
+    <string name="image_capture_done">Notication coming soon</string>
+    <string name="video_capture_done">Notication coming soon</string>
+    <string name="image_capture_error">Failed to capture, please try again</string>
+    <string name="show_image">Viewing the image?</string>
+    <string name="del_item">Are you sure you want to delete this item</string>
+
+    <string name="forum_type_paipai">Forum</string>
+    <string name="forum_type_scenery">Sight</string>
+    <string name="forum_type_accident">Accident</string>
+
+    <string name="seek_error_nostorage">No storage exists</string>
+    <string name="seek_error_seek">Seek failed</string>
+    <string name="seek_error_playback">Playback failed</string>
+    <string name="seek_switch_playback">Switch to playback mode</string>
+    <string name="seek_switch_preview">Switch to preview mode</string>    
+    <string name="seek_start_first">Please start preview firstly</string>
+    
+    <string name="crash_tip">An error occurred</string>
+    
+    <!-- 分享相关 -->
+    <string name="share_tips">Choose a way to share your files</string>
+    <string name="send_friend">to your friends</string>
+    <string name="send_to">Share to</string>
+    <string name="pickup_tips">您可以选择以下方式发送接人请求</string>
+    <string name="share_weixin">WeChat</string>
+    <string name="share_facebook">Facebook</string>
+    <string name="share_youtube">Youtube</string>
+    <string name="share_pengyouquan">Moments</string>
+    <string name="share_weixin_pengyouquan">Moments</string>
+    <string name="share_others">Others</string>
+    <string name="share_cancel">Cancel</string>
+    <string name="share_file_mimetype_not_supported">Supports one video or multiple photos only</string>
+    <string name="comment_at">Reply<font color="blue">@%1$s</font> : </string>
+    <string name="comment_delete_confirm">Delete this comment?</string>
+    <string name="share_qq_friend">QQ Friends</string>
+    <string name="share_short_msg">SMS</string>   
+    
+    <string name="comment_at_simple">Reply@: </string>   
+    <string name="comment_add_error">Error when adding comment:</string>
+    <string name="comment_delete_error">Error when deleting comment:</string>
+    <string name="comment_up_post_already">Already upvoted</string>
+    <string name="comment_content_blank_msg">Comment content is empty</string>
+    
+    <string name="hint_suggest_edit">Feedback or suggestions</string>
+    <string name="hint_suggest_contact">Other contact information if necessary(Optional)</string>
+    <string name="msg_operation_need_login">Please login firstly</string>
+    <string name="msg_pullup_carlife_more">Fetching more posts&#8230;</string>
+    <string name="msg_pullup_carlife_more_no">No more posts</string>
+    <string name="msg_pulldown_carlife_time">Update time:</string>
+    
+    <string name="tip_bond_scan_device">Way 1:\nSteps:Start-Setting-CarAssist-QR Code Scanning</string>
+    <string name="tip_bond_scan_device_1">Download APP</string>
+    <string name="tip_bond_scan_device_2">Bind Device</string>    
+    <string name="tip_bond_scan_device_manual">Way 2:\nSteps:Keep phone and device in the same WiFi network</string>
+    <string name="tip_no_searched_device">Keep your phone and device in the same WiFi network</string>
+    <string name="setting_suggest_thanks">Thanks for your feedback</string>
+    <string name="setting_suggest_failed">Sending feedback failed</string>
+    <string name="setting_checking_newversion">Checking the new version...</string>
+    <string name="setting_suggest_blank">No feedback content</string>
+    <string name="setting_suggest_need_login">Please login firstly</string>
+    <string name="setting_suggest_sending">Sending&#8230;</string>
+    
+    <string name="setting_bond_device_noserial">No serial number input</string>
+    <string name="setting_bond_device_request">Binding request now&#8230;</string>
+    <string name="setting_bond_device_sended">Waiting for the agreement of device</string>
+    <string name="setting_bond_device_nodevice">No device found, please check your input</string>
+    <string name="setting_bond_device_neterror">Failed to bind, please check your network</string>
+    <string name="setting_bond_device_errcode">Failed to bind，error code is:</string>
+    
+    <string name="setting_cloud_online">(Online)</string>
+    <string name="setting_cloud_offline">(Offline)</string>
+    <string name="setting_cloud_standby">(Sleeping)</string>
+    <string name="login_online">Online</string>
+    <string name="setting_cloud_number_online">%1$s Online</string>
+    <string name="setting_cloud_device_rename">Rename</string>
+    
+    <string name="tip_pickup_title">Smart Pickup</string>
+    <string name="tip_pickup_wechat_description">点击打开网页,确定地址后点击右下角【发送位置】</string>
+    <string name="tip_pickup_qq_sms_description">【车车助手智能接人】点击打开网页,确定地址后点击右下角【发送位置】</string>
+    <string name="tip_pickup_connecting">Connecting to the server, please wait</string>
+    <string name="tip_pickup_nodevice_found">No device</string>
+    
+    <string name="tip_share_view_title">车生活精彩图片/视频</string>
+    <string name="tip_appointment_ok">Navigation appointment succeed</string>
+    <string name="tip_appointment_fail">Navigation appointment failed</string>
+    <string name="tip_appointment_search_address">Address</string>
+    
+    <string name="msg_srarching">Searching now</string>
+    <string name="msg_mapsearch_noresult">No address</string>
+    <string name="msg_mapsearch_inputaddress">请输入要搜索的地址</string>
+    <string name="msg_mapsearch_address_hint">请输入要查找的地名</string>
+    <string name="msg_mapsearch_location_country">China</string>
+    
+    <string name="msg_input_character_hint"> characters</string>
+    <string name="msg_input_say_something">Comment content is empty</string>
+    <string name="msg_handle_video_hint">Processing video... </string>
+    <string name="msg_handle_video_failed">Processing video error</string>
+    <string name="msg_upload_failed">Submit failed, please try again</string>
+    <string name="msg_upload_processing">Uploading...</string>
+    <string name="msg_publish_processing">Publishing...</string>
+    <string name="msg_publish_success">Success</string>
+    <string name="msg_publish_success_wechat">Sharing to WeChat moments</string>
+    <string name="msg_input_unsupport_type">Not supported</string>
+    <string name="msg_input_photo_limit">One picture at least needed, last one cant be deleted</string>
+    <string name="msg_input_photo_limit_count9">9 pictures at most</string>
+    
+    <string name="msg_share_video_photo_gps">Location:</string>
+    <string name="msg_upgrade_loginfo">Changelog:</string>    
+    <string name="msg_cloud_get_accountinfo">Fetching the infomation of account, please wait</string>
+    <string name="msg_cloud_get_account_fail">Failed to login, please try again</string>
+    <string name="msg_cloud_open_wechat">Logining with WeChat, please wait</string>
+    <string name="msg_cloud_login_facebook">Logining with facebook, please wait</string>
+    <string name="msg_cloud_duplicate_login">Your account is logining in other device</string>
+    
+    <string name="msg_cloud_delete_device_title">Deleting device</string>
+    <string name="msg_cloud_delete_device_msg">Delete the selected device?</string>
+    
+    <string name="msg_bond_device_net_error">Please check your network</string>
+    <string name="msg_bond_device_wifi_isoff">Please turn on the wifi</string>
+    
+
+    <string name="ad_skip">Skip</string>
+    <string name="already_bond">Already Binded</string>
+    <string name="altitude">Altitude</string>
+    <string name="bond_skip">OK</string>
+    <string name="capture_time">Capture Time</string>
+    <string name="capture_time_tip">Capturing +/- %1$d seconds video</string>
+    <string name="capture_time_value">10S</string>
+    <string name="capturing">Capturing</string>
+    
+    <string name="car_cloud_notification">Notification</string>
+    <string name="carlife_message">Messages</string>
+    <string name="carlife_message_clear">Clean</string>
+    <string name="carlife_message_title">Message Title</string>
+    <string name="carlife_no_message">No Message</string>
+    <string name="carlife_photo_video">Photo and Video</string>
+    <string name="clean_history_address">Clean History</string>
+    <string name="clear_carlife_message_message">Are you sure you want to delete all messages?</string>
+    <string name="clear_carlife_message_title">Notice</string>
+    <string name="clear_system_message_message">Are you sure you want to delete all notification?</string>
+    <string name="clear_system_message_title">Notice</string>
+    <string name="clip_audio_tile">Select audio start position</string>
+    <string name="clip_audio_startpos">Start</string>
+    <string name="clip_audio_duration">Duration</string>
+    <string name="connect_ap_fail">Failed to connect DVR</string>
+    <string name="connect_ap_success">Connected to DVR</string>
+    <string name="connecting_ap">Connecting</string>
+    <string name="delete_gps_fail">Delete GPS track failed</string>
+    <string name="delete_gps_message">Are you sure you want to delete this GPS track</string>
+    <string name="delete_gps_success">delete complete</string>
+    <string name="delete_gps_title">Notice</string>
+    <string name="deleting_files">Deleting</string>
+    <string name="device_offline">Device Offline</string>
+    <string name="device_offline_title">Notice</string>
+    <string name="downloading_file">Downloading</string>
+    <string name="dvr_vring">Video Capturing</string>
+    <string name="dvr_upl_video">Video Downloading </string>
+    <string name="dvr_upl_photo">Photo Downloading </string>
+    <string name="dvr_tping">Photo Capturing</string>
+    <string name="faqs">FAQs</string>
+    <string name="file_tip">DVR Files</string>
+    
+    <string name="how_to_bond"><u>How to bind device</u></string>
+    <string name="install_file_browser">Please install one File Explorer</string>
+    <string name="invalid_music">Only support mp3 and aac music</string>
+    <string name="system_message_title">System Notification</string>
+    <string name="system_no_message">No system messsages</string>
+    <string name="system_message_detail_title">Detail of notification</string>
+    <string name="login_offline">Offline</string>
+    <string name="login_tip">Login:</string>
+    <string name="login_title">Login</string>
+    <string name="login_wx_title">Using WeChat or Facebook to login</string>
+    <string name="login_fb_title">For Non-Mainland China User</string>
+    
+    <string name="map_tip">Living</string>
+    <string name="keep_original">Keep original audio</string>
+    <string name="music_browser">Pick a music file from phone...</string>
+    <string name="music_scaner">Select</string>
+    <string name="no_bond_device">No binded device</string>
+    <string name="wait_for_buffer">Buffering</string>
+    <string name="wait_for_check_version">Checking the new version...</string>
+    <string name="wait_for_download">Wait for downloading</string>
+    <string name="wait_tpmsg">Wait for take picture message</string>
+    <string name="wait_vrmsg">Wait for video record message</string>
+    <string name="wechat_tip">WeChat</string>
+    <string name="title_bond_device">Binded Device</string>
+    <string name="tip_no_input">No Input</string>
+    <string name="tip_app">Your are welcome</string>
+    
+    <string name="sync_capture">Auto download captured files</string>
+    <string name="sync_capture_tip">Phone and device need same WiFi</string>
+    <string name="speed">Speed</string>
+    <string name="start_again">Start Again</string>
+    <string name="share_trace_title">Sharing Tracks</string>
+    <string name="share_track_title">Choose One</string>
+    <string name="setting_view_main_page">Goto Homepage</string>
+    <string name="setting_share">Share this app</string>
+    <string name="setting_about_app">Copyright 2015-2017 All Rights Reserved.</string>
+    <string name="setting_about">About</string>
+    <string name="select_music">Select a music file</string>
+    <string name="scan_recorder">Scan the QR code to connect device\'s hotspot</string>
+    <string name="scan_recorder_tip">Scan the QR code to connect your phone to the DVR through WiFi，QR code can be found at device\'s Setting->CarAssist tab</string>
+    <string name="second">Second</string>
+    <string name="short_second">s</string>
+    <string name="comment">Comment</string>
+    <string name="nocomments">No comments</string>
+    <string name="postdetail_comment">Input your comment</string>
+    <string name="postdetail_send">Send</string>
+    <string name="process_delete_tip">Deleting track, please wait</string>
+    <string name="process_share_tip">Capturing the image of track, please wait</string>
+    <string name="process_track_error">No tracks</string>
+    <string name="process_track_tip">Fetching and drawing the track, please wait</string>
+    <string name="progress_forum_detail">Fetching the items, please wait for a whail</string>
+    <string name="progress_forum_detail_err">Failed to fetch latest items, please check your network</string>
+    <string name="progress_forum_detail_err_no_this">This item is deleted</string>
+    <string name="open_recorder_ap_tip">Hotspot of device is not enabled, please enable it firstly</string>
+    <string name="no_select_music">Please choose one music</string>
+	<string name="no_loop_files">No files\nContains loop files you downloaded</string>
+	<string name="no_lock_files">No files\nContains locked flies when collision.</string>
+	<string name="no_location_tip">Please choose your destination of navigation</string>
+	<string name="no_edit_files">No files\nContains edited files after sharing</string>
+	<string name="no_downloading_files">No Files\nFiles are downloading</string>
+	<string name="no_capture_files">No Files\nContains captured files</string>
+    <string name="no_connect">DVR is not connected</string>
+
+    <string name="facebook_app_id" translatable="false" >1121527174626319</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb1121527174626319</string>
+    
+    <string name="wechat_login">WeChat</string>
+    <string name="facebook_login">Facebook</string>
+    <string name="press2voice">Press to talk</string>
+    <string name="video_request">Sending the request</string>
+    <string name="video_ok">Connecting now</string>
+    <string name="video_refuse">Request failed, please check the setting of online previewing in device</string>
+    <string name="video_buffer_failed">Buffering failed</string>
+    <string name="voice_failed">Voice sending failed</string>
+    <string name="video_buffering">Buffering now</string>
+    <string name="voice_sending">Sending the voice</string>
+    <string name="video_failed">Request failed, please try again later</string>
+    <string name="voice_sent">Voice has been sent</string>
+    <string name="voice_back">Voice sending was canceling</string>
+    <string name="voice_cancel">Sliding to cancel the voice sending</string>
+    <string name="live_size">No video Stream updated, stop playing now, saving video?</string>
+    <string name="live_timeout">Live playing limits to about 3 minutes, saving video?</string>
+    <string name="video_save">Saving the video of watching? </string>
+    <string name="video_view">You can watch it from the Captured of [Files in Phone]</string>
+    <string name="video_save_default">Video is saved default, you can watch it again from [Files in Phone]</string>
+
+    <string name="no_driver_score">Can not found driver \n score record for this device.</string>
+    
+    <string name="autosave_time_title">Rotating video clip duration</string>
+    <string name="auto_save_m1">1 minutes</string>
+    <string name="auto_save_m2">2 minutes</string>
+    <string name="auto_save_m3">3 minutes</string>    
+    <string name="mute_record">Mute Recording</string>
+    <string name="muting">Mute</string>
+    <string name="unmuting">Unmute</string>    
+    <string name="high">High（1080P）</string>
+    <string name="normal">Normal（720P）</string>
+	<string name="front_quality_title">Quality of recording</string>
+	<string name="gps_watermark">Show GPS watermark</string>       
+    
+    <string name="enable">Enable</string>
+    <string name="disable">Disable</string>
+    <string name="softap_ssid">Hotspot Name：</string>
+    <string name="softap_pwd">Hotspot Password：</string>
+    <string name="softap_prompt">Please input valid SSID and password</string>
+    <string name="softap_ssid_hint">New SSID</string>
+    <string name="softap_pwd_hint">New Password</string>
+    <string name="softap_title">HotSpot Modifying</string>
+    <string name="softap_config">SSID：%1$s, Password：%2$s</string>
+    
+    <string name="nobonduser">No user binds to the device</string>
+    <string name="bonduser">Users who binded to the device</string>
+    <string name="deluser">Delete %1$s?</string>
+    
+    <string name="mobile_title">Mobile Network（%1$s）</string>
+    <string name="mobile_config">Data Usage：%1$s</string>
+    <string name="mobile_disconnect">Disconnected</string>
+    
+    <string name="nosdcard">SD not available</string>
+    <string name="format_sdcard">Format SD</string>
+    <string name="sdcard_title">Format SD Card</string>
+    <string name="sdcard_storage_info">Total：%1$s, Left：%2$s\nDVR File ：%3$s, Others：%4$s</string>     
+        
+    <string name="auto_sleep">Enter Sleep if Not Moving </string>
+    <string name="auto_sleep_m15">15 minutes</string>
+    <string name="auto_sleep_m30">30 minutes</string>
+    <string name="auto_sleep_m60">60 minutes</string>
+    <string name="auto_sleep_mf">Never</string>    
+    <string name="auto_sleep_15minutes">15 minutes after stopping</string>
+    <string name="auto_sleep_30minutes">30 minutes after stopping</string>
+    <string name="auto_sleep_60minutes">60 minutes after stopping</string>
+    <string name="auto_sleep_forbidden">Never sleep when stopping</string>
+    <string name="sensitive_title">Collision Detection Sensitivity</string>
+    <string name="gsensor">Enable Wake Up when Collision</string>
+    <string name="gsensor_detail">Device wakes if detect collision in sleeping mode</string>
+    <string name="lock">Lock video when collision</string>
+    <string name="lock_detail">Lock video if collisions when driving</string>
+   
+    <string name="devinfo">General</string>
+    <string name="rfile">DVR File</string>
+    <string name="dvrset">DVR Setting</string>    
+    <string name="record_stop">Recording Stopped</string>
+    <string name="record_front">Front</string>
+    <string name="record_rear">Rear</string>
+    <string name="record_both">Dual</string>    
+    
+    <string name="bindrequest">The device is not binded, sending request of binding?</string>
+    
+    <string name="nosim">No SIM</string>
+    <string name="more">More</string>
+    <string name="notsupported">The device does not support this function</string>
+    <string name="user_del">Delete user</string>    
+    <string name="dvr_restart">Restart Recording</string>
+    <string name="dvr_restart_tips">Some setting need restarting DVR</string>
+    <string name="system_setting">General Settings</string>
+    <string name="dvr_setting">DVR Setting</string>
+    <string name="sleep_setting">Sleep and Collision</string>
+    <string name="update_setting">Version and Update</string>
+    <string name="version_latest">Latest version</string>
+    <string name="version_available">New version available</string>
+    <string name="version_install">Install new version?</string>    
+    <string name="version_downloading">Downloading：%1$d%%</string>
+    <string name="version_check">Checking the latest version</string>
+    
+    <string name="gps_status_unavailable">LOCATING</string>
+    <string name="gps_status_available">LOCATION SUCCESSFUL</string>
+    <string name="title_time">Time:</string>
+    <string name="title_lat">Latitude:</string>
+    <string name="title_lon">Longitude:</string>
+    <string name="title_speed">Speed:</string>
+    <string name="title_alt">Altitude:</string>
+    <string name="meter">&#160;m</string>
+    <string name="title_reset">Reset</string>
+    <string name="title_settings">Settings</string>
+    <string name="gps_status_unknown">LOCATING</string>
+    <string name="signal_strength">mobile network： </string>
+
+    <string name="pay_result_tip">WeChat pay result</string>
+    
+    <string name="adas_setting">ADAS</string>
+    <string name="adas_calibration">ADAS Calibration</string>
+    <string name="adas_calibration_tip">将在实时预览全屏模式下校准</string>
+    <string name="adas_calibration_jump">立刻跳转到实时预览全屏模式进行校准？</string>
+	<string name="adas_report">前车碰撞预警</string>
+	<string name="adas_report2">车道偏离预警</string>
+	<string name="adas_report3">前车起步提示</string>
+
+    <string name="tip_data_usage">Mobile Data Usage</string>
+    <string name="data_usage_will_out">Device(%1$s)\'s mobile data usage is running out of credit. </string>
+    <string name="data_usage_was_out">Device(%1$s)\'s mobile data usage is already out of credit. </string>
+    <string name="data_card_expired">Device(%1$s)\'s mobile data card is expired. </string>
+    <string name="ask_to_recharge">Are you want to recharge?</string>
+    <string name="recharge_now">Recharge Now</string>
+    <string name="monitor_message">Message</string>
+    <string name="monitor_track">Location</string>
+
+    <string name="device_alarm">Device is ready</string>
+    <string name="start_alarm">Car is Starting</string>
+    <string name="shake_alarm">Attention! Car is Shaking</string>
+    <string name="image_alarm">Detail of taken photos</string>
+    <string name="video_alarm">Detail of recorded videos</string>
+    <string name="OssAccessKey">OssAccessKey:</string>
+    <string name="OssAccessKeyDefault"/>
+    <string name="OssSecretKey">OssSecretKey:</string>
+    <string name="OssSecretKeyDefault"/>
+    <string name="OssEndPoint">OssEndPoint:</string>
+    <string name="OssEndPointDefault" />
+    <string name="OssBucket">OssBucket:</string>
+    <string name="OssBucketDefault" />
+    <string name="OssStreamingFile">OssStreamingFile:</string>
+    <string name="OssStreamingFileDefault" />
+    <string name="start_living" >startLiving:</string>
+    <string name="SerialNumber" >SerialNumber:</string>
+    <string name="SerialNumberDefault" />
+
+</resources>

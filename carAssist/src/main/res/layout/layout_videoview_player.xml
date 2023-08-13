@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.car.control.carlife.VideoViewPlayer xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/VideoViewPlayer"
+    android:layout_width="match_parent"
+    android:layout_height="200dp" > <!-- dynamically changed by code -->
+
+    <com.car.control.carlife.MyVideoView
+        android:id="@+id/videoView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true" />
+    
+    <ImageView
+        android:id="@+id/videoview_thumb"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/process_full"
+        android:scaleType="centerCrop"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/progress_indicator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" >
+
+            <TextView
+                android:id="@+id/loading_video_percent"
+                style="@style/iconText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center" />
+
+            <ProgressBar
+                android:id="@android:id/progress"
+                style="@android:style/Widget.Holo.ProgressBar.Large"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center" />
+        </FrameLayout>
+
+        <TextView
+            android:id="@+id/loading_video_text"
+            style="@style/iconText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingTop="5dip"
+            android:text="@string/post_empty_view_loading" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/play"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/preview_start" />
+
+    <RelativeLayout
+        android:id="@+id/bottombar"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_alignParentBottom="true"
+        android:background="#80000000" >
+
+        <ToggleButton
+            android:id="@+id/play_pause"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_centerVertical="true"
+            android:background="@drawable/selector_button_play"
+            android:textOff="@null"
+            android:textOn="@null" />
+
+        <TextView
+            android:id="@+id/time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/play_pause"
+            android:text="00:00"
+            android:textColor="#ffffffff" />
+
+        <SeekBar
+            android:id="@+id/player_seekbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_toLeftOf="@+id/duration"
+            android:layout_toRightOf="@+id/time"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:progressDrawable="@drawable/seekbar_style"
+            android:thumb="@drawable/button_seekbar_radio"
+            android:thumbOffset="9dp" />
+
+        <TextView
+            android:id="@+id/duration"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:layout_toLeftOf="@+id/fullscreen"
+            android:text="00:00"
+            android:textColor="#ffffffff" />
+
+        <Button
+            android:id="@+id/fullscreen"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/btn_fullscreen" />
+    </RelativeLayout>
+
+</com.car.control.carlife.VideoViewPlayer>

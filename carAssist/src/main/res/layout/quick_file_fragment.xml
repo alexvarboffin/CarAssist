@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+    
+    <LinearLayout
+        android:id="@+id/quick_capture_file"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:orientation="vertical"
+        android:background="@drawable/press_selector"
+        android:layout_weight="1" >
+        
+        <com.car.control.browser.SquareLayout
+            android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="20dp"
+	        android:layout_marginRight="20dp" >
+	        
+            <ImageView
+	            android:id="@+id/quick_capture_file_image"
+		        android:layout_width="match_parent"
+		        android:layout_height="match_parent"
+		        android:src="@drawable/folder"
+		        android:scaleType="fitXY" />
+            
+        </com.car.control.browser.SquareLayout>
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/capture_file"
+            android:gravity="center"
+            android:textSize="14sp"
+            android:textColor="#000000" />
+        
+    </LinearLayout>
+    
+    <LinearLayout
+        android:id="@+id/quick_lock_file"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:orientation="vertical"
+        android:background="@drawable/press_selector"
+        android:layout_weight="1" >
+        
+        <com.car.control.browser.SquareLayout
+            android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="20dp"
+	        android:layout_marginRight="20dp" >
+	        
+            <ImageView
+	            android:id="@+id/quick_lock_file_image"
+		        android:layout_width="match_parent"
+		        android:layout_height="match_parent"
+		        android:src="@drawable/folder"
+		        android:scaleType="fitXY" />
+            
+        </com.car.control.browser.SquareLayout>
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/lock_file"
+            android:gravity="center"
+            android:textSize="14sp"
+            android:textColor="#000000" />
+        
+    </LinearLayout>
+    
+    <LinearLayout
+        android:id="@+id/quick_loop_file"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:orientation="vertical"
+        android:background="@drawable/press_selector"
+        android:layout_weight="1" >
+        
+        <com.car.control.browser.SquareLayout
+            android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="20dp"
+	        android:layout_marginRight="20dp" >
+	        
+            <ImageView
+	            android:id="@+id/quick_loop_file_image"
+		        android:layout_width="match_parent"
+		        android:layout_height="match_parent"
+		        android:src="@drawable/folder"
+		        android:scaleType="fitXY" />
+            
+        </com.car.control.browser.SquareLayout>
+        
+      
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/loop_file"
+            android:gravity="center"
+            android:textSize="14sp"
+            android:textColor="#000000" />
+        
+    </LinearLayout>
+    
+
+</LinearLayout>

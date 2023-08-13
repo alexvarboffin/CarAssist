@@ -1,0 +1,11 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/line_frame_black"
+    android:drawableLeft="@drawable/icon_toast_brightness"
+    android:gravity="center"
+    android:minWidth="150dp"
+    android:textColor="@color/white"
+    android:paddingLeft="@dimen/margin15"
+    android:textSize="@dimen/text_huge"/>
+

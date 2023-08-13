@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+    <FrameLayout android:id="@+id/car_grid_view" 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <com.car.control.browser.FileGridView
+            android:id="@+id/cargridview"  
+            android:layout_width="fill_parent"    
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:verticalSpacing="0dip"  
+            android:horizontalSpacing="0dip"  
+            android:stretchMode="columnWidth"  
+            android:numColumns="1"
+            />
+
+    </FrameLayout>
+    
+    <ProgressBar
+        android:id="@+id/filse_progressbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="invisible" />
+    
+</RelativeLayout>

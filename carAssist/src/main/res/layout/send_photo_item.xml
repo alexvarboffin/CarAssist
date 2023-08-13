@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.car.control.browser.SquareLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+    <ImageView
+        android:id="@+id/send_photo_item_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        android:src="@drawable/file_bitmap" />
+    
+</com.car.control.browser.SquareLayout>

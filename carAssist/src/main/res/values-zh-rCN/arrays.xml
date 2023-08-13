@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources > 
+    
+    <string-array name="command_tips">
+        <item>打电话给小明</item>
+        <item>播放音乐</item>
+        <item>停止音乐</item>
+        <item>今天天气怎么样</item>
+        <item>讲一个笑话</item>
+        <item>播放刘德华的歌</item>
+        <item>打开wifi</item>
+        <item>增大音量</item>
+        <item>回到桌面</item>
+        <item>运行百度地图</item>
+        <item>科大讯飞的股票怎么样</item>
+        <item>退出当前应用</item>
+        <item>关闭声音</item>
+        <item>导航到世界之窗</item>
+        <item>减小声音</item>
+        <item>打开收音机</item>
+        <item>调频到95.8</item>
+        <item>附近的加油站</item>
+        <item>我的位置</item>
+        <item>我需要帮助</item>
+        <item>我要听忘情水</item>
+        <item>导航去公司</item>
+        <item>打开行车记录仪</item>
+        <item>关闭收音机</item>
+    </string-array> 
+    
+    <string-array name="share_track">
+        <item>分享这天轨迹</item>
+        <item>删除这天轨迹</item>
+        <item>删除所有轨迹</item>
+    </string-array>
+
+    <string-array name="days">
+        <item>周日</item>
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+    </string-array>
+
+</resources>

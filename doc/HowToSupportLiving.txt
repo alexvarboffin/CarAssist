@@ -1,0 +1,20 @@
+user need to fill the correct OSS information in the file:
+CarAssist/carAssist/src/main/java/com/car/control/dvr/OSSLivingActivity.java
+
+for example:
+
+    private String mOSSAccessKey = "xxx";   //ex: "ACSDg19dijfj5Ngs"
+    private String mOSSSecretKey = "xxx";   //ex: "ab2HjdkhaHKusdhj1829jkjhagskJ7s"
+    private String mEndPoint = "xxx";       //ex: "http://oss-cn-shenzhen.aliyuncs.com"
+    private String mBucket = "xxx";         //ex: "liveshenzhen"
+    private String mStreamingFile = "xxx";  //ex: "TWNFC66DRWAAHU9D_1234567890"
+    private String mSerialNum = "xxx";  //ex: "TWNFC66DRWAAHU9D"
+
+
+mOSSAccessKey/mOSSSecretKey should come from aliyun OSS website, it should be fixed.
+mEndPoint/mBuckect also come from aliyun OSS website, but it can be changed if you have several oss endpoint in different area.
+
+mStreamingFile MUST be unique for all the living streaming at the same time, otherwise it will cause streaming conflict.
+the file name can be anything you like.
+
+mSerialNum is the device serial number from ro.serialno, it MUST be something like "TWNFC66DRWAAHU9D"

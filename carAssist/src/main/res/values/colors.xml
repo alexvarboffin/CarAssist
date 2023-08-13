@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="text_color">#FF000000</color>
+    <color name="bg_transparent">#00000000</color>
+    <color name="bg_press">#FFC6C6C4</color>
+    
+    <color name="grey">#808080</color>
+    <color name="blue">#2962FF</color>
+    
+    <color name="light_dark_gray">#66999999</color>
+    <color name="transparent">#00000000</color>
+    
+    <color name="bg_transparent_gray">#92000000</color>
+    
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg_press_grid">#2962FF</color>
+    <color name="photo_color">#2962FF</color>
+    
+    <drawable name="action_bar">#2962FF</drawable>
+    <drawable name="camera_grey">#e4e4e4</drawable>
+    <drawable name="process_full">#00000000</drawable>
+    <drawable name="process_bg">#66000000</drawable>
+    <drawable name="bg_connect">#434343</drawable>
+    
+    <color name="voice_string_color">#FF000000</color>
+    <color name="tip_list_color">#FF000000</color>
+    <color name="tip_string_color">#FF000000</color>
+    
+    <color name="volume_fill">#60FF004B</color>
+    <color name="volume_stroke">#D50000</color>
+    
+    <color name="process_b">#60FFFFFF</color>
+    <color name="process_stroke">#FFFFFFFF</color>
+    
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color> 
+    
+    <color name="background">#82404040</color>
+    <color name="text_main">@color/white</color>
+    
+    <color name="cameraview_controlbar_background">#313131</color>
+    <color name="cameraview_controlbar_background_translucent">#80313131</color>
+	
+	<drawable name="post_bottom_btn_normal">#ff00ff00</drawable>
+    <drawable name="post_bottom_btn_pressed">#2962FF</drawable>
+    
+    <color name="btn_text_color">#FFFFFFFF</color>
+    <drawable name="btn_background_normal">#2962FF</drawable>
+    <drawable name="btn_background_pressed">#2962FF</drawable>
+
+    <drawable name="btn_green_background_normal">#FF00FF00</drawable>
+    <drawable name="btn_green_background_pressed">#8000FF00</drawable>
+    <drawable name="btn_red_background_normal">#FFFF0000</drawable>
+    <drawable name="btn_red_background_pressed">#80FF0000</drawable>
+    
+    <!-- 分享按钮背景 -->
+    <drawable name="share_btn_normal">#22ad38</drawable>
+    <drawable name="share_btn_pressed">#62ad68</drawable>
+    <drawable name="share_btn_black_normal">#313131</drawable>
+    <drawable name="share_btn_black_pressed">#818181</drawable>
+    
+    <color name="light_gray">#FF303030</color>
+    <color name="gray">#FF909090</color>
+    <color name="sigview_line_color">#FFDDDDDD</color>
+    <color name="bar_used">#FF00BB00</color>
+    <color name="bar_unused">#FFFFCC33</color>
+    <color name="bar_outline">#FFFFFFFF</color>
+    <color name="bar_green">#FF00BB00</color>
+    <color name="bar_red">#FFBB0000</color>
+    <color name="sigview_background">#FF222222</color>
+    <color name="grid">#FFDDDDDD</color>
+    <color name="skyview_background">#2962FF</color>
+    <color name="sigview_text_color">#FFFFFFFF</color>
+    <color name="skyview_text_color">#FFFFFFFF</color>
+
+    <color name="navpage">#FFE1E8EB</color>
+</resources>

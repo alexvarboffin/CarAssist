@@ -1,0 +1,1374 @@
+[
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_my_location_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\my_location_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_file_checkbox_style.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\file_checkbox_style.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_fullscreen.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\fullscreen.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_seekbar_button.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_seekbar_button.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_camera_speed_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\camera_speed_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_zoom_in.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xhdpi\\zoom_in.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\menu_car_files.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\menu\\car_files.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_from_bottom.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_image.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\image.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_switch_track_off.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\switch_track_off.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_pull_to_refresh_header_vertical.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_preview.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\preview.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_camera_view.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\camera_view.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_tab_textcolor_selector.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\tab_textcolor_selector.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_brightness_up.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\brightness_up.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_start_record.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\start_record.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_default_ptr_rotate.png.flat",
+        "source": "C:\\kwk\\CarAssist\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_speed.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\speed.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_track_seekbar_bg.9.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\track_seekbar_bg.9.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\anim_fragment_exit_left.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\anim\\fragment_exit_left.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_car_files_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\car_files_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_control.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\control.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_control_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\control_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_device.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\device.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_my_car.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_my_car.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_file_bitmap.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\file_bitmap.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_recording_on_pressed.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\recording_on_pressed.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_volume_up.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\volume_up.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_camera_backward.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\camera_backward.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_checkbox_select.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-hdpi\\checkbox_select.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_line_port.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\line_port.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_mobile_4g.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\mobile_4g.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ca_logo.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\ca_logo.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\menu_track_menu.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\menu\\track_menu.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_mic.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_mic.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_indicator_arrow.png.flat",
+        "source": "C:\\kwk\\CarAssist\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_download.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\download.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_voice_inputing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\voice_inputing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_listview_item_mapsearch.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\listview_item_mapsearch.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dvrmore_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\dvrmore_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_webview_display.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\webview_display.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_device_delete.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\device_delete.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_preview_cling.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\preview_cling.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_calendar.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\calendar.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_mobile_3g.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\mobile_3g.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_default_ptr_flip.png.flat",
+        "source": "C:\\kwk\\CarAssist\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\raw_beep.ogg.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pause.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\pause.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_radio_normal.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\radio_normal.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_tab_page_view.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\tab_page_view.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bg_cling1.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xhdpi\\bg_cling1.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_line_frame_black.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\line_frame_black.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_calendar_month_right.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\calendar_month_right.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_bg_video_bottom.9.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\bg_video_bottom.9.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_color2_selector.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\color2_selector.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_photo.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\photo.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_file_select_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\file_select_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_mm_title_back_btn.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\mm_title_back_btn.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_voice_dialog.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\voice_dialog.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_default_ptr_rotate.png.flat",
+        "source": "C:\\kwk\\CarAssist\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_start_record.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_start_record.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\menu_photo_activity_local.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\menu\\photo_activity_local.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\menu_video_activity_remote.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\menu\\video_activity_remote.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_layout_videoview_player.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\layout_videoview_player.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_phone_files.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\phone_files.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_monitor_list_view_frame.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\monitor_list_view_frame.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_pause.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\btn_pause.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_button_rounded_ing.9.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\button_rounded_ing.9.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_phone_files_list.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\phone_files_list.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_reset_sel.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\reset_sel.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_unselect_all.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\unselect_all.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_toast_seekbackward.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-mdpi\\icon_toast_seekbackward.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_rfile.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\rfile.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_mic.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\mic.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_seekbar_style.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\seekbar_style.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_activity_video.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_clip_audio_view.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\clip_audio_view.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dailog_b.9.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\dailog_b.9.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_recorder_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\recorder_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_edittext.9.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\edittext.9.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_play_white.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\play_white.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_seekbar_button.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\seekbar_button.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_cling_normal.9.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xhdpi\\btn_cling_normal.9.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\anim_alpha_show.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\anim\\alpha_show.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_track_more_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\track_more_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_activity_title.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\activity_title.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_switch_camera.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_switch_camera.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_file_select.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\file_select.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_activity_remote_file.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\activity_remote_file.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_quick_track_fragment.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\quick_track_fragment.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_folder.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\folder.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_device_delete.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_device_delete.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_thumbnail_default.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\thumbnail_default.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_device_item.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\device_item.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_setting_b.9.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\setting_b.9.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_fullscreen.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_fullscreen.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_setting_item.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\setting_item.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_switch_track_on.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\switch_track_on.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_rfile_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\rfile_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_voice.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_voice.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\menu_car_files_multiple.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\menu\\car_files_multiple.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_recording_on.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_recording_on.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_backward.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_backward.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_actionbar_indeterminate_progress.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_track_more.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_track_more.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_quick_file_fragment.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\quick_file_fragment.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_notify_unread_messages.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\notify_unread_messages.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_play.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\play.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_calendar_month_bottom.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\calendar_month_bottom.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_backward.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\backward.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_pause.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_pause.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_button_normal.9.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\button_normal.9.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_header_footer.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\header_footer.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_nosim.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\nosim.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_fullscreen_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\fullscreen_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_folder_up.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_folder_up.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_ime.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_ime.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_switch_thumb_on.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\switch_thumb_on.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_quick_voice_fragment.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\quick_voice_fragment.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_reset.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\reset.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_voice_b.9.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\voice_b.9.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_brightness_down.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\brightness_down.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_fullscreen_black.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\fullscreen_black.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_select_all.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\select_all.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\anim_fragment_exit_right.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\anim\\fragment_exit_right.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mm_title_back_focused.9.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-hdpi\\mm_title_back_focused.9.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_welcome.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\welcome.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_button_press.9.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\button_press.9.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_seekbar_t.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\seekbar_t.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_v2.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\v2.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_start_record_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\start_record_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\menu_phone_files_share.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\menu\\phone_files_share.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dvrset_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\dvrset_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_quick_setting_fragment.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\quick_setting_fragment.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\menu_device_menu.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\menu\\device_menu.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_post_bottom_btn_selector.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\post_bottom_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_bg_top.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_top_bar.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\top_bar.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_backward_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\backward_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_activity_car_control.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\activity_car_control.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_rfile.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_rfile.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_to_top.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_carassist_main_view.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\carassist_main_view.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_checkbox_normal.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-hdpi\\checkbox_normal.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_press_selector.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\press_selector.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_background_shade.9.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\background_shade.9.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_shutter_photo.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_shutter_photo.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_navi.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\navi.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_speed_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\speed_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_press_selector_grid.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\press_selector_grid.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_switch_thumb.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_more.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\more.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_v1.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\v1.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_camera_speed.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\camera_speed.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_track_fragment.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\track_fragment.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\menu_setting_menu.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\menu\\setting_menu.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_car_files_list.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\car_files_list.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_track_seekbar_full.9.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\track_seekbar_full.9.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\raw_realm_properties.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\raw\\realm_properties"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\anim_alpha_dismiss.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\anim\\alpha_dismiss.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_mic2.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\mic2.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_grid_item.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_button_seekbar_radio.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\button_seekbar_radio.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_color_selector.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\color_selector.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_setting_content.9.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\setting_content.9.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_play.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_play.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_default_ptr_flip.png.flat",
+        "source": "C:\\kwk\\CarAssist\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_phone_file_more_option.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\phone_file_more_option.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_earth.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\earth.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_preview_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\preview_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\anim_small2big.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\anim\\small2big.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_speed.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_speed.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_calendar.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_calendar.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_user_item.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\user_item.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\menu_activity_bond.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\menu\\activity_bond.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_about_fragment.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\about_fragment.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_camera_preview_view.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\camera_preview_view.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_recording_off.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_recording_off.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_green.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_green.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_folder_up.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\folder_up.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_folder_up_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\folder_up_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_v7.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\v7.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\menu_phone_files_mutiple.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\menu\\phone_files_mutiple.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_save_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\save_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_default_ptr_rotate.png.flat",
+        "source": "C:\\kwk\\CarAssist\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_device_add.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\device_add.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_red.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_red.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_my_car.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\my_car.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dismiss.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\dismiss.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_pull_to_refresh_header_horizontal.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_radio_select.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\radio_select.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_head_img.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\head_img.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\menu_video_activity_local.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\menu\\video_activity_local.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_camera_capture.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_camera_capture.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_driver_score_fragment.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\driver_score_fragment.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_my_location.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_my_location.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_indicator_arrow.png.flat",
+        "source": "C:\\kwk\\CarAssist\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_short_msg_white.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\short_msg_white.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_smallscreen.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_smallscreen.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pause_white.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\pause_white.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon64_wx_logo.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\icon64_wx_logo.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_zoom_out.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xhdpi\\zoom_out.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_v6.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\v6.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tip_b.9.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\tip_b.9.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_camera_backward_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\camera_backward_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_search_clear_unable.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\search_clear_unable.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_activity_camera_fullscreen.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\activity_camera_fullscreen.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ime_input.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\ime_input.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_radio_style.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\radio_style.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_list_header.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\list_header.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pause_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\pause_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_toast_brightness.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-mdpi\\icon_toast_brightness.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_to_bottom.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_no_connect.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\no_connect.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_toast_seekforward.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-mdpi\\icon_toast_seekforward.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tab_b.9.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\tab_b.9.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_activity_camera_living.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\activity_camera_living.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_phone_files_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\phone_files_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_seekbar_full.9.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\seekbar_full.9.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_default_ptr_flip.png.flat",
+        "source": "C:\\kwk\\CarAssist\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_toast_volume.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-mdpi\\icon_toast_volume.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_welcome.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\welcome.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_voice_input.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\voice_input.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_switch_thumb_off.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\switch_thumb_off.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_search.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\icon_search.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_cling_button_bg.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\cling_button_bg.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_checkbox_style.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\checkbox_style.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_photo_pressed.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\photo_pressed.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_v5.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\v5.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_splash_view.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\splash_view.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_button_rounded.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_button_rounded.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_small_screen_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\small_screen_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\menu_phone_files.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\menu\\phone_files.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_checkbox_normal.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\checkbox_normal.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_toast_note.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\toast_note.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mm_title_back_normal.9.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-hdpi\\mm_title_back_normal.9.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_line_land.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\line_land.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\anim_slpash_dismiss.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\anim\\slpash_dismiss.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_media_topbar_bg.9.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\media_topbar_bg.9.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_traffic.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\traffic.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_small_screen.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\small_screen.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_camera_speed.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_camera_speed.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon48_wx_button.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-mdpi\\icon48_wx_button.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\menu_camera_preview.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\menu\\camera_preview.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_activity_photo.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\activity_photo.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_selector_button_play.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\selector_button_play.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mmtitle_bg_alpha.9.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-hdpi\\mmtitle_bg_alpha.9.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_track_more.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\track_more.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_video.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\video.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_webview_fragment.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\webview_fragment.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_device_sample_qrcode.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\device_sample_qrcode.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_calendar_month_top.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\calendar_month_top.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_dividing_layout.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\dividing_layout.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_delete.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_chooselist_item.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\chooselist_item.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_volume_down.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\volume_down.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_fragment_tab_bottom_selector.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\fragment_tab_bottom_selector.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_checkbox_select.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\checkbox_select.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_server_item.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\server_item.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_dvrmore.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_dvrmore.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_map_select_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\map_select_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_device_delete_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\device_delete_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_radio_normal.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-hdpi\\radio_normal.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_recording_off.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\recording_off.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_phone_cling.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\phone_cling.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cling.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xhdpi\\cling.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_calendar_month_left.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\calendar_month_left.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_car.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\car.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_back.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_rectangle_selector.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\rectangle_selector.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_satellite.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\satellite.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_take_picture.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\take_picture.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_preview_start.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\preview_start.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_baidumap_track_view.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\baidumap_track_view.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_cling_pressed.9.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xhdpi\\btn_cling_pressed.9.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_v3.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\v3.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_switch_track.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\switch_track.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_quick_setting_fragment2.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\quick_setting_fragment2.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\anim_fragment_enter_right.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\anim\\fragment_enter_right.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_dvrset.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_dvrset.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_track.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\track.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_track_seekbar_style.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\track_seekbar_style.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_my_location.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\my_location.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-zh-xxhdpi_no_connect.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-zh-xxhdpi\\no_connect.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_reset_pressed.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\reset_pressed.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_openmap_focuse_mark.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\icon_openmap_focuse_mark.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_recording_on.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\recording_on.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_activity_capture.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon48_wx_button.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\icon48_wx_button.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_take_picture_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\take_picture_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_from_top.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_calendar_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\calendar_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ime_inputing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\ime_inputing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_rename_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\rename_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_save.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_save.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_my_car_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\my_car_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_mic_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\mic_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_car_cling.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\car_cling.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_activity_map_select.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\activity_map_select.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_map_select.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\map_select.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\anim_fragment_enter_left.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\anim\\fragment_enter_left.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dvrmore.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\dvrmore.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\menu_photo_activity_remote.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\menu\\photo_activity_remote.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dvrset.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\dvrset.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_small_screen_black.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\small_screen_black.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_play_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\play_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_recording_off_pressed.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\recording_off_pressed.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_take_picture.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_take_picture.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_car_files.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\car_files.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_button_rounded.9.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\button_rounded.9.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_send_photo_item.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\send_photo_item.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_radio_select.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-hdpi\\radio_select.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_button.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_button.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_more_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\more_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_softap_dialog.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\softap_dialog.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_map.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_map.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_device_fragment.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\device_fragment.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_file.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\file.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_recorder.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\recorder.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_indicator_arrow.png.flat",
+        "source": "C:\\kwk\\CarAssist\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_car_file_more_option.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\car_file_more_option.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_mobile_signal.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\mobile_signal.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\layout_camera_view_land.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\layout\\camera_view_land.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\menu_car_files_multiple_download.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\menu\\car_files_multiple_download.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_seekbar_button_ing.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\seekbar_button_ing.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_driverscore.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\driverscore.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_rename.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\rename.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_video_play.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\video_play.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_seekbar_bg.9.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\seekbar_bg.9.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_v4.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\v4.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mm_title_back_pressed.9.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-hdpi\\mm_title_back_pressed.9.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_camera_backward.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_camera_backward.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_device_select.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\device_select.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_save.png.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable-xxhdpi\\save.png"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_bg_bottom.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\drawable_btn_rename.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\drawable\\btn_rename.xml"
+    },
+    {
+        "merged": "C:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\res\\merged\\debug\\menu_driver_score_menu.xml.flat",
+        "source": "C:\\kwk\\CarAssist\\carAssist\\src\\main\\res\\menu\\driver_score_menu.xml"
+    }
+]

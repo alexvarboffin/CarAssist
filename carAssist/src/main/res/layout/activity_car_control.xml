@@ -1,0 +1,21 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+    <RelativeLayout
+        android:id="@+id/main_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+        <SurfaceView
+            android:layout_width="0dp"
+            android:layout_height="0dp">
+        </SurfaceView>
+    </RelativeLayout>
+    
+    <com.car.control.splash.SplashView
+        android:id="@+id/main_splash_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+ 
+</RelativeLayout>

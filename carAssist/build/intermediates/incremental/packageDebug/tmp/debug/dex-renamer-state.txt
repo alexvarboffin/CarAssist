@@ -1,0 +1,7 @@
+#Wed May 17 21:18:22 EEST 2023
+base.0=C\:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\kwk\\CarAssist\\carAssist\\build\\intermediates\\transforms\\dexMerger\\debug\\0

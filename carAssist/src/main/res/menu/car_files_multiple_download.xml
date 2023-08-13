@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+   
+    
+    <item
+        android:id="@+id/car_file_download_select"
+        android:showAsAction="always"
+        android:icon="@drawable/select_all"
+        android:title="" />
+    
+    <item
+        android:id="@+id/car_file_download_cancel"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/delete"
+        android:title="" />
+    
+</menu>

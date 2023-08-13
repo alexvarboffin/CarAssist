@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/fragment_normal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp" >
+        
+   <FrameLayout
+        android:id="@+id/largeSurfaceContainer"
+           android:layout_width="match_parent"
+           android:layout_height="0dp"
+           android:layout_weight="5" >
+        <com.car.control.dvr.CameraView
+            android:id="@+id/camera_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </com.car.control.dvr.CameraView>           
+
+
+    </FrameLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="5"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#e4e4e4" />
+
+            <RelativeLayout
+                android:id="@+id/tab1"
+                android:layout_width="match_parent"
+                android:layout_height="52dp" >
+
+                <RadioGroup
+                    android:id="@+id/fragmen_tab"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="18dp"
+                    android:layout_marginRight="18dp"
+                    android:orientation="horizontal"
+                    tools:ignore="UselessParent">
+
+                    <RadioButton
+                        android:id="@+id/voice_button"
+                        style="@style/fragmen_tab"
+                        android:drawableBottom="@drawable/fragment_tab_bottom_selector"
+                        android:text="@string/voice_button" />
+
+                    <RadioButton
+                        android:id="@+id/setting_button"
+                        style="@style/fragmen_tab"
+                        android:drawableBottom="@drawable/fragment_tab_bottom_selector"
+                        android:text="@string/setting_button" />
+
+                    <RadioButton
+                        android:id="@+id/track_button"
+                        style="@style/fragmen_tab"
+                        android:drawableBottom="@drawable/fragment_tab_bottom_selector"
+                        android:text="@string/track_button" />
+                </RadioGroup>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/tab2"
+                android:layout_width="match_parent"
+                android:layout_height="40dp" >
+
+                <RadioGroup
+                    android:id="@+id/fragmen_tab2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:orientation="horizontal" >
+
+                    <RadioButton
+                        android:id="@+id/about_button"
+                        style="@style/fragmen_tab"
+                        android:drawableBottom="@drawable/fragment_tab_bottom_selector"
+                        android:text="@string/devinfo" />
+
+                    <RadioButton
+                        android:id="@+id/track2_button"
+                        style="@style/fragmen_tab"
+                        android:drawableBottom="@drawable/fragment_tab_bottom_selector"
+                        android:text="@string/track_button" />
+                </RadioGroup>
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#e4e4e4" />
+
+            <FrameLayout
+                android:id="@+id/fragment_container"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <com.car.control.dvr.AboutFragment
+                    android:id="@+id/about_fragment"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:visibility="gone" />
+
+                <com.car.control.dvr.QuickVoiceFragment
+                    android:id="@+id/quick_voice_fragment"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:visibility="gone" />
+
+                <com.car.control.dvr.QuickSettingFragment
+                    android:id="@+id/quick_setting_fragment"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:visibility="gone" />
+
+                <com.car.control.dvr.QuickTrackFragment
+                    android:id="@+id/quick_track_fragment"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:visibility="gone" />
+            </FrameLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+</RelativeLayout>

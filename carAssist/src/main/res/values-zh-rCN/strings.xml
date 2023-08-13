@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">车车助手</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="ip_setting">设备</string>
+    <string name="dvr_device">＋</string>
+    <string name="refresh">刷新</string>
+    <string name="up_folder">上级目录</string>
+
+    <string name="multiple">选择</string>
+    <string name="cancel_multiple">取消多选</string>
+    <string name="select_all">全部选中</string>
+    <string name="unselect_all">全部不选</string>
+    <string name="show_tip">再次显示提示</string>
+    
+    <string name="setting_volume">设备声音</string>
+    <string name="setting_brightness">设备亮度</string>
+    <string name="setting_wake_up">语音唤醒灵敏度</string>
+    <string name="volume_and_brightness">声音和亮度</string>
+    <string name="setting_wake_up_close">关</string>
+    <string name="setting_wake_up_low">低</string>
+    <string name="setting_wake_up_mid">中</string>
+    <string name="setting_wake_up_high">高</string>
+    
+    <string name="open_file">打开</string>
+    <string name="download_file">下载</string>
+    <string name="cancel_download">取消下载</string>
+    <string name="delete_file">删除</string>
+    <string name="cancle_file">取消</string>
+    <string name="share_flie">共享</string>
+    
+    <string name="tip_preview">记录仪预览画面</string>
+    <string name="preview_record">录像</string>
+    <string name="preview_photo">拍照</string>
+
+    <string name="tip_softap_open">Wifi热点已打开</string>
+    <string name="tip_softap_close">Wifi热点已关闭</string>
+    <string name="tip_connected">已连接</string>
+    <string name="tip_no_connect">无连接</string>
+    <string name="tip_connecting">正在连接</string>
+    <string name="no_recorder">无记录仪</string>
+    
+    <string name="tip_delete_success">删除成功</string>
+    <string name="tip_delete_fail">删除失败</string>
+    <string name="tip_download_success">下载成功</string>
+    <string name="tip_download_fail">下载失败</string>
+    <string name="tip_deleting_file">正在删除文件</string>
+    
+    <string name="tip_newversion_title">版本更新</string>
+    <string name="tip_newversion_message">发现新版本，是否下载？</string>
+    <string name="tip_newversion_downloading">正在下载更新</string>
+    <string name="tip_newversion_download_quiet">后台下载</string>
+    <string name="tip_newversion_download_fail">下载更新失败!</string>
+    
+    <string name="control_cling_title" >我</string>
+    <string name="control_cling_item" >可通过云服务器进行智能接人，监控报警，轨迹回放，预约导航等操作</string>
+    <string name="preview_cling_title" >记录仪</string>
+    <string name="preview_cling_item" >可以实时预览设备摄像头画面并抓拍视频， 查看和下载设备的图片和视频，设置设备等</string>
+    <string name="car_cling_title" >车生活</string>
+    <string name="car_cling_item" >可以跟大家一起分享路途中有趣的图片和视频</string>
+    <string name="phone_cling_title" >手机文件</string>
+    <string name="phone_cling_item" >从设备下载的图片和视频将在这里显示，可以查看，删除分享等操作。</string>
+    <string name="cling_dismiss" >确定</string>
+    <string name="title_about" >车车助手</string>
+    <string name="about" >关于</string>
+    <string name="version_name" >版本号:</string>
+    <string name="can_not_find_version_name" >无法获取版本!</string>
+    <string name="sd_unmount" >设备无SD卡，无法预览!</string>
+    <string name="ok" >确定</string>
+    <string name="install_message">已下载最新版本，是否现在安装?</string>
+    <string name="lastest_version">已是最新版本!</string>
+    <string name="cancel">取消</string>
+    <string name="check_upate">检查更新</string>
+    <string name="upgrade">升级</string>
+    <string name="send">发送</string>
+    <string name="no_address">没输入地址</string>
+    <string name="hint_input">请输入导航地址</string>
+    <string name="quit_title">注意</string>
+    <string name="quit_message">确定退出车车助手吗?</string>
+    
+    <string name="title_select_point">地图选点</string>
+    <string name="ok_select_point">确定</string>
+    <string name="cancel_select_point">取消</string>
+    <string name="query_message">正在查询，请稍候&#8230;</string>
+    <string name="address_error">抱歉，未能找到结果</string>
+    
+    <string name="alarm_detail">报警信息</string>
+    <string name="alarm_device">报警设备</string>
+    <string name="alarm_title">报警内容</string>
+    <string name="alarm_time">报警时间</string>
+    <string name="alarm_map_info">地图信息</string>
+    <string name="alarm_front_capture">前摄像头实时图片或录像</string>
+    <string name="alarm_rear_capture">后摄像头实时图片或录像</string>
+    <string name="alarm_capture_downloading">等待下载</string>
+    <string name="alarm_capture_none">无</string>
+    
+	<!-- flag 1 -->
+    <string name="tab_car_life">车生活</string>
+    <string name="tab_preview">记录仪</string>
+    <string name="tab_phone_file">手机文件</string>
+    <string name="tab_cloud">我</string>
+       
+    <string name="login_weixin">登录微信</string>
+    <string name="login_weixin_tip">请使用微信登录</string>
+    <string name="logout">退出登录</string>
+    <string name="relogin">重新登录</string>
+    
+    <string name="device_fragment">设备管理</string>
+    <string name="track_fragment">轨迹回放</string>
+    <string name="monitor_fragment">监控报警</string>
+    <string name="setting_fragment">设置</string>
+    <string name="driver_score_fragment">安全驾驶评分</string>
+    <string name="pickup_fragment">智能接人</string>
+    <string name="message_fragment">消息发送</string>
+    <string name="datacard_fragment">流量充值</string>
+    <string name="appointment_fragment">预约导航</string>
+    
+    <string name="delete">删除</string>
+    <string name="tip_device">已绑定设备(可更换当前设备)</string>
+    <string name="tip_bond">绑定新设备</string>
+    <string name="scan">扫描设备</string>
+    <string name="add_device">添加设备</string>
+    <string name="hint_serial">手动输入设备号</string>
+    <string name="no_name">未命名</string>
+    
+    <string name="scan_text">将二维码放入框内, 即可自动扫描</string>
+    <string name="scan_title">二维码扫描</string>
+    <string name="message_device">设备</string>
+    <string name="hint_message_adit">请输入你要发送的消息</string>
+    <string name="message_send">发送</string>
+    <string name="pickup_send">发送给微信朋友</string>
+    
+    <string name="voice_button">常用</string>
+    <string name="setting_button">快捷设置</string>
+    <string name="track_button">轨迹</string>
+    <string name="file_button">记录仪文件</string>
+    <string name="voice_tip">语音操作</string>
+   
+    <string name="monitor_title">重要事件</string>
+    <string name="monitor_image">实时拍照</string>
+    <string name="monitor_video">实时录制</string>
+    <string name="monitor_live_preview">远程直播</string>
+    <string name="topbar_share">共享</string>
+    
+    <string name="time">00:00</string>
+    
+    <string name="lock_file">锁影文件</string>
+    <string name="capture_file">抓拍文件</string>
+    <string name="loop_file">循环文件</string>
+    <string name="edit_file">已编辑</string>
+    
+    <string name="capture_short_video">10秒抓拍</string>
+    <string name="capture_short_video_time">%1$d秒抓拍</string>
+    <string name="capture_complete">抓拍完成，已保存到“手机文件”。</string>
+    <string name="playback">播放</string>
+    <string name="no_file">无照片或视频</string>
+    
+    <string name="setting_camera">监控影像设置</string>
+    <string name="setting_camera_picture">监控图片分辨率</string>
+    <string name="setting_camera_video">监控视频录制时长</string>
+    <string name="setting_suggest">意见反馈</string>
+    <string name="finish">完成</string>
+    <string name="next">下一步</string>
+    <string name="back">返回</string>
+    <string name="share_video_title">剪辑</string>
+    <string name="send_video_title">发布</string>
+    <string name="share_video_origial">原音</string>
+    <string name="share_video_origial_music">配乐</string>
+    <string name="save">存草稿</string>
+    <string name="synchronization">同步到</string>
+    <string name="hint_send_video">这一刻的想法</string>
+    <string name="max_120_word">120字</string>
+    <string name="edit_conver">拖动红线选择封面</string>
+	<string name="postdetail_views">%1$d次浏览</string>
+    <string name="postdetail_authorinfo">上传者：</string>
+    <string name="postlist_count_zero">还没有帖子</string>
+    <string name="post_network_error">网络异常,请检查</string>
+    <string name="post_image_video_share">分享</string>
+    <string name="post_image_video_comment">&#160;%1$d</string>
+    <string name="post_image_video_up">&#160;%1$d</string>
+    <string name="post_image_video_delete">删除</string>    
+    <string name="post_image_video_view">&#160;浏览</string>
+    <string name="post_empty_view_loading">加载中,请稍候</string>
+    <string name="post_view_time_inside2">刚刚</string>
+    <string name="post_view_time_inside60">分钟前</string>
+    <string name="post_view_time_insidetoday">今天</string>
+    <string name="post_view_time_insideyesterday">昨天</string>
+    <string name="delete_postitem_confirm">确认删除该帖子吗?</string>
+    <string name="post_share_user_default">车车助手用户</string>
+    <string name="post_share_to_msg">给你分享了车生活图片/视频，浏览请点击:</string>
+    <string name="post_share_user_title">【车车助手】</string>
+    
+    <string name="failed_image">拍照失败</string>
+    <string name="fetching_image">正在请求图片抓取...</string>
+    <string name="fetching_video">正在请求视频抓取...</string>
+    <string name="image_capture_done">正在进行实时拍照，稍后将有消息通知</string>
+    <string name="video_capture_done">正在进行实时录制，稍后将有消息通知</string>
+    <string name="image_capture_error">请求失败，可能网络出现问题，请稍后重试</string>
+    <string name="show_image">图片获取成功，是否查看？</string>
+    <string name="del_item">是否删除该条记录</string>
+
+    <string name="forum_type_paipai">随便拍拍</string>
+    <string name="forum_type_scenery">路上风景</string>
+    <string name="forum_type_accident">事故报料</string>
+
+    <string name="seek_error_nostorage">设备端无存储器</string>
+    <string name="seek_error_seek">快进快退错误</string>
+    <string name="seek_error_playback">播放错误</string>
+    <string name="seek_switch_playback">切换到回放模式</string>
+    <string name="seek_switch_preview">切换到预览模式</string>
+    <string name="seek_start_first">请先点击开始回放</string>
+    
+    <string name="crash_tip">车车助手发生错误</string>
+    
+    <!-- 分享相关 -->
+    <string name="share_tips">您可以选择以下方式发送分享请求</string>
+    <string name="send_friend">给您的好友</string>
+    <string name="send_to">发送到</string>
+    <string name="pickup_tips">您可以选择以下方式发送接人请求</string>
+    <string name="share_facebook">脸&#160;&#160;&#160;书</string>
+    <string name="share_youtube">Youtube</string>
+    <string name="share_weixin">微&#160;&#160;&#160;信</string>
+    <string name="share_pengyouquan">朋友圈</string>
+    <string name="share_weixin_pengyouquan">微信朋友圈</string>
+    <string name="share_others">其&#160;&#160;&#160;他</string>
+    <string name="share_cancel">取&#160;&#160;&#160;消</string>
+    <string name="share_file_mimetype_not_supported">分享仅支持多张图片或单个视频文件</string>
+    <string name="comment_at">回复<font color="blue">@%1$s</font> : </string>
+    <string name="share_qq_friend">QQ好友</string>
+    <string name="share_short_msg">短&#160;&#160;&#160;信</string>   
+     	        
+    <string name="comment_at_simple">回复@: </string>
+    <string name="comment_delete_confirm">确定要删除本条评论吗？</string>    
+    <string name="comment_add_error">发表评论发生错误errcode:</string>
+    <string name="comment_delete_error">删除评论发生错误errcode:</string>
+    <string name="comment_up_post_already">您已经顶过此帖了</string>
+    <string name="comment_content_blank_msg">评论内容不能为空</string>   
+    
+    <string name="hint_suggest_edit">意见及需求</string>
+    <string name="hint_suggest_contact">手机号/QQ号/邮件(可选)</string>
+    <string name="msg_operation_need_login">您没有登录，登录后再操作.</string>
+    <string name="msg_pullup_carlife_more">更多车生活获取中&#8230;</string>
+    <string name="msg_pullup_carlife_more_no">没有更多车生活了</string>
+    <string name="msg_pulldown_carlife_time">最近更新:</string>
+    
+    <string name="tip_bond_scan_device">方式一:\n步骤:设备开机-设置-车车助手-扫描二维码</string>
+    <string name="tip_bond_scan_device_1">车车助手APP下载</string>
+    <string name="tip_bond_scan_device_2">车车助手绑定设备</string>    
+    <string name="tip_bond_scan_device_manual">方式二:\n步骤:确保手机与设备处于同一网络-点击下方按钮-选择需要绑定的设备</string>
+    
+    <string name="tip_no_searched_device">请确保设备和手机位于同一WIFI网络</string>
+    <string name="setting_suggest_thanks">谢谢您的反馈信息</string>
+    <string name="setting_suggest_failed">发送反馈信息失败</string>
+    <string name="setting_checking_newversion">正在检查更新,请稍候</string>
+    <string name="setting_suggest_blank">未输入反馈信息</string>
+    <string name="setting_suggest_need_login">登录后才能进行反馈</string>
+    <string name="setting_suggest_sending">正在发送中&#8230;</string>
+    
+    <string name="setting_bond_device_noserial">未输入序列号</string>
+    <string name="setting_bond_device_request">正在发送绑定请求&#8230;</string>
+    <string name="setting_bond_device_sended">已发送绑定请求，等待设备同意</string>
+    <string name="setting_bond_device_nodevice">该设备不存在，请检查输入是否正确</string>
+    <string name="setting_bond_device_neterror">发送绑定请求失败，请检查网络</string>
+    <string name="setting_bond_device_errcode">发送绑定请求失败，错误代码:</string>
+    
+    <string name="setting_cloud_online">(在线)</string>
+    <string name="setting_cloud_offline">(离线)</string>
+    <string name="setting_cloud_standby">(休眠)</string>
+    <string name="login_online">在线</string>
+    <string name="setting_cloud_number_online">当前%1$s台设备在线</string>
+    <string name="setting_cloud_device_rename">命名设备</string>
+    
+    <string name="tip_pickup_title">车车助手智能接人</string>
+    <string name="tip_pickup_wechat_description">点击打开网页,确定地址后点击右下角【发送位置】</string>
+    <string name="tip_pickup_qq_sms_description">【车车助手智能接人】点击打开网页,确定地址后点击右下角【发送位置】</string>
+    <string name="tip_pickup_connecting">正在连接服务器，请稍等</string>
+    <string name="tip_pickup_nodevice_found">无设备</string>
+    
+    <string name="tip_share_view_title">车生活精彩图片/视频</string>
+    <string name="tip_appointment_ok">预约导航成功</string>
+    <string name="tip_appointment_fail">预约导航失败</string>
+    <string name="tip_appointment_search_address">地址</string>
+    
+    <string name="msg_srarching">正在搜索,请稍候</string>
+    <string name="msg_mapsearch_noresult">没有相关的地址</string>
+    <string name="msg_mapsearch_inputaddress">请输入要搜索的地址</string>
+    <string name="msg_mapsearch_address_hint">请输入要查找的地名</string>
+    <string name="msg_mapsearch_location_country">中国</string>
+    
+    <string name="msg_input_character_hint">字</string>
+    <string name="msg_input_say_something">请先说点此刻您的想法吧</string>
+    <string name="msg_handle_video_hint">正在处理视频，请稍候</string>
+    <string name="msg_handle_video_failed">处理视频失败，请重新尝试</string>
+    <string name="msg_upload_failed">发布失败，请重新尝试</string>
+    <string name="msg_upload_processing">正在上传，请稍候</string>
+    <string name="msg_publish_processing">正在发布，请稍候</string>
+    <string name="msg_publish_success">发布成功</string>
+    <string name="msg_publish_success_wechat">发布成功, 即将分享到微信朋友圈</string>
+    <string name="msg_input_unsupport_type">不支持的数据类型</string>
+    <string name="msg_input_photo_limit">必须最少包含一张图片，无法删除最后一张图片</string>
+    <string name="msg_input_photo_limit_count9">最多支持9张图片</string>
+    
+    <string name="msg_share_video_photo_gps">所在位置:</string>
+    <string name="msg_upgrade_loginfo">更新日志:</string>
+    <string name="msg_cloud_get_accountinfo">正在获取账户信息,请稍候</string>
+    <string name="msg_cloud_get_account_fail">获取账户信息失败，请重新登录</string>
+    <string name="msg_cloud_open_wechat">正在使用微信登录,请稍候</string>
+    <string name="msg_cloud_login_facebook">正在使用脸书登录，请稍候</string>
+    <string name="msg_cloud_duplicate_login">您的帐户已在其它设备登录.</string>
+    ®
+    <string name="msg_cloud_delete_device_title">删除设备</string>
+    <string name="msg_cloud_delete_device_msg">确认要删除所选设备吗?</string>
+    
+    <string name="msg_bond_device_net_error">设备网络异常,请检查</string>
+    <string name="msg_bond_device_wifi_isoff">请先打开WIFI开关</string>
+    
+    <string name="ad_skip">跳过</string>
+    <string name="already_bond">设备已绑定</string>
+    <string name="altitude">海拔</string>
+    <string name="bond_skip">完成</string>
+    <string name="capture_time">记录仪抓拍时长</string>
+    <string name="capture_time_tip">抓取前%1$d秒和后%2$d秒的视频</string>
+    <string name="capture_time_value">10S</string>
+    <string name="capturing">正在抓拍</string>
+    
+    <string name="car_cloud_notification">通知</string>
+    <string name="carlife_message">消息</string>
+    <string name="carlife_message_clear">清空</string>
+    <string name="carlife_message_title">车生活消息</string>
+    <string name="carlife_no_message">无车生活消息</string>
+    <string name="carlife_photo_video">车生活精彩图片/视频</string>
+    <string name="clean_history_address">清除历史记录</string>
+    <string name="clear_carlife_message_message">确定清空所有的车生活消息吗?</string>
+    <string name="clear_carlife_message_title">注意</string>
+    <string name="clear_system_message_message">确定清空所有的系统通知吗?</string>
+    <string name="clear_system_message_title">注意</string>
+    <string name="clip_audio_tile">拖动竖线选择起始点</string>
+    <string name="clip_audio_startpos">起始点</string>
+    <string name="clip_audio_duration">总长度</string>
+    <string name="connect_ap_fail">连接设备的WIFI热点失败</string>
+    <string name="connect_ap_success">连接设备的WIFI热点成功</string>
+    <string name="connecting_ap">正在连接设备的WIFI热点</string>
+    <string name="delete_gps_fail">删除轨迹失败</string>
+    <string name="delete_gps_message">确定删除?</string>
+    <string name="delete_gps_success">删除轨迹成功</string>
+    <string name="delete_gps_title">注意</string>
+    <string name="deleting_files">正在删除文件</string>
+    <string name="device_offline">设备不在线，请检查设备网络</string>
+    <string name="device_offline_title">注意</string>
+    <string name="downloading_file">正在下载</string>
+    <string name="dvr_tping">设备正在抓拍照片</string>
+    <string name="dvr_upl_photo">设备正在传输照片</string>
+    <string name="dvr_upl_video">设备正在传输视频</string>
+    <string name="dvr_vring">设备正在抓拍视频</string>
+    <string name="faqs">常见问题</string>
+    <string name="file_tip">记录仪文件</string>
+    
+    <string name="how_to_bond"><u>如何绑定设备</u></string>
+    <string name="install_file_browser">请安装一个文件游览器</string>
+    <string name="invalid_music">无效的音乐文件，支持mp3和aac格式的音乐文件</string>
+    <string name="system_message_title">系统通知</string>
+    <string name="system_no_message">无系统通知</string>
+    <string name="system_message_detail_title">通知详情</string>
+    <string name="login_offline">离线</string>
+    <string name="login_tip">请选择以下平台登录</string>
+    <string name="login_title">登录</string>
+    <string name="login_wx_title">请使用微信或者脸书登录</string>
+    <string name="login_fb_title">For Non-Mainland China User</string>
+    
+    <string name="map_tip">直播</string>
+    <string name="keep_original">原始声音</string>
+    <string name="music_browser">选择手机本地音乐</string>
+    <string name="music_scaner">选择音乐</string>
+    <string name="no_bond_device">无设备</string>
+    <string name="wait_for_buffer">正在缓冲,请稍后</string>
+    <string name="wait_for_check_version">正在检查更新,请稍候</string>
+    <string name="wait_for_download">等待下载</string>
+    <string name="wait_tpmsg">正在等待实时拍照信息</string>
+    <string name="wait_vrmsg">正在等待实时录制信息</string>
+    <string name="wechat_tip">微信</string>
+    <string name="title_bond_device">已绑定设备</string>
+    <string name="tip_no_input">未输入信息</string>
+    <string name="tip_app">您的安全行车助手</string>
+    
+    <string name="sync_capture">自动同步记录仪抓拍文件</string>
+    <string name="sync_capture_tip">同步完成后将删除记录仪对应文件</string>
+    <string name="speed">速度</string>
+    <string name="start_again">重新开始</string>
+    <string name="share_trace_title">分享轨迹</string>
+    <string name="share_track_title">请选择</string>
+    <string name="setting_view_main_page">访问主页</string>
+    <string name="setting_share">分享给好友</string>
+    <string name="setting_about_app">版权所有 @ Copyright 2015-2017. All Rights Reserved.</string>
+    <string name="setting_about">关于</string>
+    <string name="select_music">选择一个音频文件</string>
+    <string name="scan_recorder">扫描二维码以连接设备WiFi热点</string>
+    <string name="scan_recorder_tip">扫描设备上的二维码，可以自动连上设备的WIFI热点，之后会自动连上设备，二维码在设备的设置应用中</string>
+    <string name="second">秒</string>
+    <string name="short_second">秒</string>
+    <string name="comment">评论</string>
+    <string name="nocomments">没有评论</string>
+    <string name="postdetail_comment">评论</string>
+    <string name="postdetail_send">发送</string>
+    <string name="process_delete_tip">正在删除轨迹，请稍候</string>
+    <string name="process_share_tip">正在截取轨迹图片，请稍候</string>
+    <string name="process_track_error">无轨迹数据或者获取数据错误</string>
+    <string name="process_track_tip">正在获取和绘制轨迹，请稍候</string>
+    <string name="progress_forum_detail">正在获取车生活信息，请稍候</string>
+    <string name="progress_forum_detail_err">获取车生活信息失败，请检查网络</string>
+    <string name="progress_forum_detail_err_no_this">此车生活已被删除，无法游览</string>
+    <string name="open_recorder_ap_tip">设备的热点未打开，请在设备设置中打开热点功能</string>
+    <string name="no_select_music">请选择一首音乐</string>
+    <string name="no_loop_files">无照片或视频 存放正常一直循环录制的图片和视频</string>
+    <string name="no_lock_files">无照片或视频 存放设备遇到强烈震动等突发情况时 自动保存的图片和视频</string>
+    <string name="no_location_tip">请先选择需要导航的位置</string>
+    <string name="no_edit_files">无照片或视频 存放分享时裁剪后的视频</string>
+    <string name="no_downloading_files">无照片或视频 显示正在下载的图片和视频</string>
+    <string name="no_capture_files">无照片或视频 存放用户主动拍摄的图片和视频</string>
+    <string name="no_connect">未连接上记录仪</string>
+    
+    <string name="wechat_login">微信登录</string>
+    <string name="facebook_login">Facebook</string>
+    <string name="press2voice">按住说话</string>
+    <string name="video_request">正在发送请求</string>
+    <string name="video_ok">开始建立连接</string>
+    <string name="video_refuse">请求失败，请确认设备端是否允许直播</string>
+    <string name="video_buffer_failed">视频缓冲失败，请检查网络或者稍后再试</string>
+    <string name="video_failed">请求失败，请检查网络或者稍后再试</string>
+    <string name="video_buffering">正在缓冲</string>  
+    <string name="voice_sending">正在发送语音</string>
+    <string name="voice_failed">语音发送失败</string>
+    <string name="voice_sent">语音已经发送成功</string>
+    <string name="voice_back">语音发送已经取消</string>    
+    <string name="voice_cancel">滑动并松开可取消语音发送</string>
+    <string name="live_size">没有收到视频流更新，直播结束，是否保存？</string>
+    <string name="live_timeout">单次直播时长为三分钟左右，是否保存？</string>
+    <string name="video_save">退出界面并保存刚刚直播过的视频？</string>
+    <string name="video_view">可到【手机文件】中的抓拍文件中查看</string>
+    <string name="video_save_default">视频已自动保存，请到【手机文件】中的抓拍文件中查看</string>
+
+    <string name="no_driver_score">抱歉，设备未找到驾驶安全记录。\n设备需要预装了［行车］软件\n并有实际行车轨迹方可使用该功能。</string>
+
+    <string name="autosave_time_title">自动保存时间</string>
+    <string name="auto_save_m1">1分钟</string>
+    <string name="auto_save_m2">2分钟</string>
+    <string name="auto_save_m3">3分钟</string>      
+    <string name="mute_record">静音录像</string>
+    <string name="muting">静音录像</string>
+    <string name="unmuting">非静音录像</string>
+    <string name="high">高（1080P）</string>
+    <string name="normal">普通（720P）</string>
+	<string name="front_quality_title">前摄像头的录像质量</string>
+	<string name="gps_watermark">显示GPS水印信息</string>    
+    
+    <string name="enable">允许</string>
+    <string name="disable">禁止</string>
+    <string name="softap_ssid">热点名称：</string>
+    <string name="softap_pwd">热点密码：</string>
+    <string name="softap_prompt">请输入有效的热点名称与密码</string>
+    <string name="softap_ssid_hint">新热点名称（不能为空）</string>
+    <string name="softap_pwd_hint">新热点密码（不能少于8位）</string>
+    <string name="softap_title">修改热点名称密码</string>
+    <string name="softap_config">名称：%1$s, 密码：%2$s</string>
+    
+    <string name="nobonduser">设备暂时没有用户绑定</string>
+    <string name="bonduser">与设备绑定的用户</string>
+    <string name="deluser">将用户%1$s与设备解绑?</string>
+    
+    <string name="mobile_title">移动数据连接（%1$s）</string>
+    <string name="mobile_config">流量已使用：%1$s</string>
+    <string name="mobile_disconnect">无连接</string>
+    
+    <string name="nosdcard">没有发现SD卡</string>
+    <string name="format_sdcard">对设备SD卡进行格式化?</string>
+    <string name="sdcard_title">格式化SD卡</string>
+    <string name="sdcard_storage_info">总容量：%1$s, 剩余空间：%2$s\n行车录影文件 ：%3$s, 其他：%4$s</string>    
+    
+    <string name="auto_sleep">自动休眠</string>
+    <string name="auto_sleep_m15">15分钟</string>
+    <string name="auto_sleep_m30">30分钟</string>
+    <string name="auto_sleep_m60">60分钟</string>
+    <string name="auto_sleep_mf">永不</string>    
+    <string name="auto_sleep_15minutes">未熄火停车15分钟后</string>
+    <string name="auto_sleep_30minutes">未熄火停车30分钟后</string>
+    <string name="auto_sleep_60minutes">未熄火停车60分钟后</string>
+    <string name="auto_sleep_forbidden">禁止未熄火停车自动休眠</string>  
+    <string name="sensitive_title">碰撞灵敏度(建议在颠簸路况时降低灵敏度)</string>
+    <string name="gsensor">休眠时允许碰撞唤醒</string>
+    <string name="gsensor_detail">监测到碰撞将抓拍图片并发送报警给车车助手</string>
+    <string name="lock">行车过程中允许碰撞锁影</string>
+    <string name="lock_detail">碰撞事故前后几十秒的视频会保存到锁影目录</string>
+    
+    <string name="devinfo">设备信息</string>
+    <string name="rfile">记录仪文件</string>
+    <string name="dvrset">记录仪设置</string>
+    <string name="record_stop">已停止录像</string>
+    <string name="record_front">前</string>
+    <string name="record_rear">后</string>
+    <string name="record_both">双</string>
+    
+    <string name="bindrequest">没有绑定该设备，是否发出绑定请求？</string>
+    
+    <string name="nosim">无SIM卡</string>
+	<string name="more">更多</string>
+    <string name="notsupported">设备不支持此功能</string>
+    <string name="user_del">解除绑定</string>
+    <string name="dvr_restart">重启录像</string>
+    <string name="dvr_restart_tips">录像设置需重启录像后生效</string>
+    <string name="dvr_setting">录像设置</string>
+    <string name="system_setting">通用设置</string>
+    <string name="sleep_setting">设备休眠及碰撞</string>
+    <string name="update_setting">版本及更新</string>
+    <string name="version_latest">已是最新版本</string>
+    <string name="version_available">有最新版本可更新</string>
+    <string name="version_install">是否对设备进行新版本安装？</string>
+    <string name="version_downloading">正在下载：%1$d%%</string>
+    <string name="version_check">正在检查版本更新</string>
+    
+    <string name="gps_status_unavailable">正在为您定位</string>
+    <string name="gps_status_available">定位成功</string>
+    <string name="title_time">时间:</string>
+    <string name="title_lat">纬度:</string>
+    <string name="title_lon">经度:</string>
+    <string name="title_speed">速度:</string>
+    <string name="title_alt">高度:</string>
+    <string name="meter">&#160;米</string>
+    <string name="title_reset">复位</string>
+    <string name="title_settings">设置</string>
+    <string name="gps_status_unknown">正在为您定位 </string>
+    <string name="signal_strength">移动数据网络： </string>
+
+    <string name="pay_result_tip">微信支付结果</string>
+    <string name="adas_setting">ADAS</string>
+    <string name="adas_calibration">ADAS 重新校准</string>
+    <string name="adas_calibration_tip">将在实时预览全屏模式下校准</string>
+    <string name="adas_calibration_jump">立刻跳转到实时预览全屏模式进行校准？</string>
+	<string name="adas_report">前车碰撞预警</string>
+	<string name="adas_report2">车道偏离预警</string>
+	<string name="adas_report3">前车起步提示</string>
+
+    <string name="tip_data_usage">数据流量充值提醒</string>
+    <string name="data_usage_will_out">设备(%1$s)的移动数据流量即将用完。</string>
+    <string name="data_usage_was_out">设备(%1$s)的移动数据流量已经用完。</string>
+    <string name="data_card_expired">设备(%1$s)的移动数据数据流量卡服务即将到期。</string>
+    <string name="ask_to_recharge">建议立即充值。</string>
+    <string name="recharge_now">充值</string>
+    <string name="monitor_message">报警记录</string>
+    <string name="monitor_track">车辆位置</string>
+
+    <string name="device_alarm">设备启动成功</string>
+    <string name="start_alarm">爱车已启动</string>
+    <string name="shake_alarm">爱车此刻正受到较强震动，请注意</string>
+    <string name="image_alarm">实时拍照详情</string>
+    <string name="video_alarm">实时录制详情</string>
+</resources>

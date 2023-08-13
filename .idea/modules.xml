@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CarAssist.iml" filepath="$PROJECT_DIR$/CarAssist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carAssist/carAssist.iml" filepath="$PROJECT_DIR$/carAssist/carAssist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pullToRefreshLibrary/pullToRefreshLibrary.iml" filepath="$PROJECT_DIR$/pullToRefreshLibrary/pullToRefreshLibrary.iml" />
+    </modules>
+  </component>
+</project>

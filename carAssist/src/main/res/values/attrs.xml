@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <declare-styleable name="TabPage"> 
+		<attr name="tab_normal" format="reference|color" /> 
+		<attr name="tab_select" format="reference|color" /> 
+		<attr name="tab_text" format="reference" />
+	</declare-styleable>
+	
+    <declare-styleable name="SquareProgressBar"> 
+		<attr name="full" format="reference|color" /> 
+		<attr name="progress" format="reference|color" />
+	</declare-styleable>
+	
+    <declare-styleable name="Cling">
+        <attr name="drawIdentifier" format="string"  />
+    </declare-styleable>
+    
+</resources>

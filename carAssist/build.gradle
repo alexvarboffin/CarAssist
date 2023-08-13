@@ -1,0 +1,88 @@
+apply plugin: 'com.android.application'
+
+android {
+
+//    ndk {
+//        // Specify the NDK directory
+//        ndkDir = "C:\\android\\sdk\\ndk\\22.1.7171670"
+//    }
+
+    ndkVersion '25.0.8775105'
+
+    signingConfigs {
+        debug {
+            storePassword 'android'
+            keyAlias = 'androiddebugkey'
+            keyPassword 'android'
+            storeFile file('../cm7.keystore')
+        }
+    }
+    compileSdkVersion 25
+
+    aaptOptions {
+        cruncherEnabled = false
+        useNewCruncher = false
+    }
+    dexOptions {
+        javaMaxHeapSize "4g"
+    }
+    defaultConfig {
+        ndk {
+            abiFilters 'armeabi', 'armeabi-v7a', 'x86'
+        }
+        applicationId "com.car.control"
+        minSdkVersion 16
+        //noinspection ExpiredTargetSdkVersion
+        targetSdkVersion 25
+        multiDexEnabled true
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_1_8
+            targetCompatibility JavaVersion.VERSION_1_8
+        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-project.txt'
+            signingConfig signingConfigs.debug
+        }
+        debug {
+            signingConfig signingConfigs.debug
+        }
+    }
+    productFlavors {
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+repositories {
+    mavenCentral() // jcenter() works as well because it pulls from Maven Central
+}
+
+dependencies {
+    implementation project(':pullToRefreshLibrary')
+    implementation files('libs/BaiduLBS_Android.jar')
+    implementation files('libs/Msc.jar')
+    implementation files('libs/bugly_crash_release_2.1.jar')
+    implementation files('libs/fastjson-1.1.46.android.jar')
+    implementation files('libs/libammsdk.jar')
+    //    implementation files('libs/okhttp-3.4.1.jar')
+    //    implementation files('libs/okio-1.10.0.jar')
+    implementation files('libs/zxing.jar')
+    //    implementation files('libs/adas.jar')
+    implementation files('libs/mediatool.jar')
+    //    implementation project(path: ':mediatool')
+    implementation 'com.android.support:support-v13:25.4.0'
+    // facebook
+    implementation 'com.squareup.picasso:picasso:2.5.2'
+//    implementation 'com.google.android.gms:play-services:10.0.1'
+//    implementation 'com.google.android.gms:play-services-maps:10.0.1'
+//    implementation 'com.facebook.android:facebook-android-sdk:4.20.0'
+    implementation 'com.aliyun.dpa:oss-android-sdk:2.3.0.1'
+    implementation 'com.github.bumptech.glide:glide:3.7.0'
+    implementation 'com.tonicartos:stickygridheaders:1.0.1'
+}
+

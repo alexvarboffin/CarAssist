@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.car.control.Cling
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:Cling="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    Cling:drawIdentifier="car">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="90dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                style="@style/ClingTitleText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/car_cling_title" />
+            <TextView
+                style="@style/ClingText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/car_cling_item" />
+        </LinearLayout>
+    </FrameLayout>
+    <Button
+        style="@style/ClingButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:layout_marginRight="10dp"
+        android:layout_gravity="bottom|end"
+        android:onClick="dismissCarCling" />
+</com.car.control.Cling>

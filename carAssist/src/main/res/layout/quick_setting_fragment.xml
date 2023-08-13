@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+        <RelativeLayout android:layout_width="match_parent"
+           	android:layout_height="wrap_content"
+               	android:layout_marginTop="10dp"
+    			android:layout_marginBottom="10dp"           	
+           	android:background="@null">
+            
+            <TextView
+                android:id="@+id/dvrmore"
+                android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:drawableRight="@drawable/dvrmore"
+		        android:text="@string/more"
+		        android:clickable="true"
+		        android:layout_alignParentRight="true"
+		        android:padding="10dp" >
+		        
+                </TextView>
+            
+        </RelativeLayout>     
+    
+    <ScrollView
+    	android:id="@+id/scrollview"
+       	android:layout_width="match_parent"
+       	android:layout_height="0dp"
+       	android:layout_weight="1"
+       	android:background="@null" >
+    
+    	<LinearLayout 
+           	android:layout_width="match_parent"
+           	android:layout_height="match_parent"
+           	android:paddingLeft="10dp"
+           	android:paddingRight="10dp"
+           	android:background="@null"
+           	android:orientation="vertical" >
+           	
+    	<LinearLayout 
+           	android:id="@+id/linearlayout"
+           	android:layout_width="match_parent"
+           	android:layout_height="wrap_content"
+           	android:background="@null"
+           	android:orientation="vertical" >    	    
+           
+    		<TextView
+		    	android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_marginTop="10dp"
+		        android:layout_marginBottom="10dp"
+		        android:textColor="@color/grey"
+		        android:textSize="14sp"
+		        android:text="@string/setting_wake_up" />
+    			    
+		    <TextView
+   				android:layout_width="match_parent"
+   				android:layout_height="1dp"
+   				android:background="#e4e4e4" />
+    			    
+    		<RadioGroup 
+               	android:id="@+id/radio_group" 
+               	android:orientation="horizontal"
+               	android:layout_width="match_parent"
+               	android:layout_height="wrap_content"
+               	android:layout_marginTop="5dp"
+    			android:layout_marginBottom="5dp"
+               	android:layout_marginLeft="10dp"
+               	android:layout_marginRight="10dp" >
+             
+              	<RadioButton 
+    			    android:id="@+id/close"
+					android:layout_width="0dp"
+					android:layout_height="wrap_content" 
+					android:layout_weight="1"
+					android:text="@string/setting_wake_up_close"
+					android:button="@drawable/radio_style"
+					android:checked="true" />	                
+             
+    			<RadioButton 
+    			    android:id="@+id/low"
+					android:layout_width="0dp"
+					android:layout_height="wrap_content" 
+					android:layout_weight="1"
+					android:text="@string/setting_wake_up_low"
+					android:button="@drawable/radio_style" />
+   			
+    			<RadioButton
+    			    android:id="@+id/mid" 
+    			    android:layout_width="0dp" 
+    			    android:layout_height="wrap_content"
+    			    android:layout_weight="1"
+    			    android:button="@drawable/radio_style"
+    			    android:text="@string/setting_wake_up_mid" />
+   			
+    			<RadioButton 
+    			    android:id="@+id/high" 
+    			    android:layout_width="0dp" 
+    			    android:layout_height="wrap_content"
+    			    android:layout_weight="1"
+    			    android:button="@drawable/radio_style"
+    			    android:text="@string/setting_wake_up_high" />
+ 			    
+			</RadioGroup>
+			</LinearLayout>
+				
+		    <TextView
+   				android:layout_width="match_parent"
+   				android:layout_height="1dp"
+   				android:background="#e4e4e4" />
+    			    
+           <RelativeLayout
+               	android:layout_width="match_parent"
+               	android:layout_height="wrap_content"
+               	android:layout_marginTop="15dp"
+    			android:layout_marginBottom="15dp" >
+            
+               	<ImageView
+                	android:layout_width="wrap_content"
+                   	android:layout_height="wrap_content"
+                   	android:layout_alignParentLeft="true"
+                   	android:layout_centerVertical="true"
+                   	android:layout_marginLeft="10dp"
+                   	android:src="@drawable/volume_down"
+                   	android:scaleType="centerInside" />
+            
+               	<ImageView
+                   	android:layout_width="wrap_content"
+                   	android:layout_height="wrap_content"
+                   	android:layout_alignParentRight="true"
+                   	android:layout_marginRight="10dp"
+                   	android:layout_centerVertical="true"
+                   	android:src="@drawable/volume_up"
+                   	android:scaleType="centerInside" />
+            
+	            <SeekBar
+	                android:id="@+id/volume"
+	                android:layout_width="match_parent"
+	                android:layout_height="wrap_content"
+	                android:layout_marginLeft="30dp"
+	                android:layout_marginRight="30dp"
+					android:layout_centerVertical="true"
+	                android:progressDrawable="@drawable/seekbar_style"
+	                android:thumb="@drawable/button_seekbar_radio"
+	                android:thumbOffset="5dp"
+	                android:max="15" />
+         
+        	</RelativeLayout>
+        			
+           	<TextView
+        		android:layout_width="match_parent"
+        		android:layout_height="1dp"
+        		android:background="#e4e4e4" />
+        
+           	<RelativeLayout
+               	android:layout_width="match_parent"
+               	android:layout_height="wrap_content"
+               	android:layout_marginTop="15dp" >
+            
+               	<ImageView
+                   	android:layout_width="wrap_content"
+                   	android:layout_height="wrap_content"
+                   	android:layout_alignParentLeft="true"
+                   	android:layout_centerVertical="true"
+                   	android:layout_marginLeft="10dp"
+                   	android:src="@drawable/brightness_down"
+                   	android:scaleType="centerInside" />
+            
+               	<ImageView
+                   	android:layout_width="wrap_content"
+                   	android:layout_height="wrap_content"
+                   	android:layout_alignParentRight="true"
+                   	android:layout_centerVertical="true"
+                   	android:layout_marginRight="10dp"
+                   	android:src="@drawable/brightness_up"
+                   	android:scaleType="centerInside" />
+            
+            	<SeekBar
+                	android:id="@+id/brightness"
+                	android:layout_width="match_parent"
+                	android:layout_height="wrap_content"
+                	android:layout_centerVertical="true"
+                	android:layout_marginLeft="30dp"
+                	android:layout_marginRight="30dp"
+                	android:progressDrawable="@drawable/seekbar_style"
+                	android:thumb="@drawable/button_seekbar_radio"
+                	android:thumbOffset="5dp"
+                	android:max="255" />
+         
+        	</RelativeLayout>  
+    	</LinearLayout> 
+	</ScrollView>		    
+</LinearLayout>

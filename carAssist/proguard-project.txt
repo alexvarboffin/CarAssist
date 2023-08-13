@@ -1,0 +1,148 @@
+# To enable ProGuard in your project, edit project.properties
+# to define the proguard.config property as described in that file.
+#
+# Add project specific ProGuard rules here.
+# By default, the flags in this file are appended to flags specified
+# in ${sdk.dir}/tools/proguard/proguard-android.txt
+# You can edit the include path and order by changing the ProGuard
+# include property in project.properties.
+#
+# For more details, see
+#   http://developer.android.com/guide/developing/tools/proguard.html
+
+# Add any project specific keep options here:
+
+# If your project uses WebView with JS, uncomment the following
+# and specify the fully qualified class name to the JavaScript interface
+# class:
+#-keepclassmembers class fqcn.of.javascript.interface.for.webview {
+#   public *;
+#}
+
+-keepattributes InnerClasses
+-keepattributes EnclosingMethod
+-dontoptimize
+-optimizationpasses 5
+-dontusemixedcaseclassnames
+-dontskipnonpubliclibraryclasses
+-dontpreverify
+-verbose
+#-optimizations !code/simplification/arithmetic,!field/*,!class/merging/*
+#-optimizations !code/allocation/variable
+
+-keep class android.support.** { *; }
+-dontwarn android.support.**
+-keep public class * extends android.support.**
+-keep public class * extends android.app.Fragment
+
+-keep class org.apache.**{ *; }
+-dontwarn org.apache.**
+
+-keep class com.baidu.**{ *; }
+-keep class vi.com.gdi.bgl.android.**{*;}  
+-dontwarn com.baidu.**
+ 
+-keep class com.baidu.location.** { *; } 
+-dontwarn com.baidu.location.** 
+
+-keep class com.iflytek.**{ *; }
+-dontwarn com.iflytek.**
+
+-keep class com.car.control.iflytek.**{ *; }
+-dontwarn com.car.control.iflytek.**
+  
+-keep class com.tencent.** { *; }
+-dontwarn com.tencent.**
+
+-keep class com.car.control.wxapi.**{ *; }
+-dontwarn com.car.control.wxapi.**
+
+-keep class com.car.control.jni.**{ *; }
+-dontwarn com.car.control.jni.**
+
+-keep class com.media.tool.MediaProcess {  *; }
+-keep class com.media.tool.MediaExtractor {  *; }
+
+-keep class com.google.zxing.**{ *; }
+-dontwarn com.google.zxing.**
+
+-keep public class com.tencent.bugly.**{*;}
+-dontwarn com.tencent.bugly.**
+
+-keep public class * extends android.app.Activity
+-keep public class * extends android.app.Application
+-keep public class * extends android.app.Service
+-keep public class * extends android.content.BroadcastReceiver
+-keep public class * extends android.content.ContentProvider
+-keep public class * extends android.app.backup.BackupAgentHelper
+-keep public class * extends android.preference.Preference
+
+-keep class com.squareup.picasso.**{*;}
+-dontwarn com.squareup.picasso.**
+
+ -keepclasseswithmembernames class * {
+     native <methods>;
+}
+
+-keepclasseswithmembers class * {
+    public <init>(android.content.Context, android.util.AttributeSet);
+}
+
+-keepclasseswithmembers class * {
+    public <init>(android.content.Context, android.util.AttributeSet, int);
+}
+
+-keepclassmembers class * extends android.app.Activity {
+    public void *(android.view.View);
+}
+
+#保持自定义控件指定规则的方法不被混淆  
+-keep public class * extends android.view.View {  
+    public <init>(android.content.Context);  
+    public <init>(android.content.Context, android.util.AttributeSet);  
+    public <init>(android.content.Context, android.util.AttributeSet, int);  
+    public void set*(...);  
+}  
+
+#保持枚举 enum 不被混淆  
+-keepclassmembers enum * {
+    public static **[] values();
+    public static ** valueOf(java.lang.String);
+}
+
+#保持 Parcelable 不被混淆（aidl文件不能去混淆）  
+-keep class * implements android.os.Parcelable {  
+    public static final android.os.Parcelable$Creator *;  
+}  
+
+#需要序列化和反序列化的类不能被混淆（Java反射用到的类也不能被混淆）  
+-keepnames class * implements java.io.Serializable 
+
+#过滤泛型（不写可能会出现类型转换错误）  
+-keepattributes Signature  
+  
+#假如项目中有用到注解，应加入这行配置    
+-keepattributes *Annotation*  
+
+#保持R文件不被混淆，否则，反射获取不到资源id   
+-keep class **.R$* { *; }  
+
+# Gson specific classes
+-keep class sun.misc.Unsafe { *; }
+#-keep class com.google.gson.stream.** { *; }
+# Application classes that will be serialized/deserialized over Gson
+-keep class com.google.gson.examples.android.model.** { *; }
+
+-keep class com.alibaba.sdk.android.oss.** { *; }
+-dontwarn okio.**
+-dontwarn org.apache.commons.codec.binary.**
+
+-dontwarn com.tencent.**
+-dontwarn com.handmark.**
+
+-keep public class * implements com.bumptech.glide.module.GlideModule
+-keep public enum com.bumptech.glide.load.resource.bitmap.ImageHeaderParser$** {
+  **[] $VALUES;
+  public *;
+}
+

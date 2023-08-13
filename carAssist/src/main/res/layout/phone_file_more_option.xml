@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/dailog_b"
+    android:orientation="vertical" >
+    
+    <TextView
+        android:id="@+id/phone_open_file"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textColor="@color/text_color"
+        android:background="@drawable/press_selector"
+        android:text="@string/open_file" />
+    
+    <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/line_land" />
+    
+    <TextView
+        android:id="@+id/share_flie"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textColor="@color/text_color"
+        android:background="@drawable/press_selector"
+        android:text="@string/share_flie" />
+    
+    <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/line_land" />
+    
+    <TextView
+        android:id="@+id/phone_delete_file"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textColor="@color/text_color"
+        android:background="@drawable/press_selector"
+        android:text="@string/delete_file" />
+    
+    <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/line_land" />
+    
+    <TextView
+        android:id="@+id/phone_cancel_file"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textColor="@color/text_color"
+        android:background="@drawable/press_selector"
+        android:text="@string/cancle_file" />
+    
+
+</LinearLayout>
+

@@ -1,0 +1,2 @@
+# Referenced at C:\kwk\CarAssist\carAssist\build\intermediates\merged_manifests\debug\AndroidManifest.xml:43
+-keep class com.car.control.CarControlApplication { <init>(); }

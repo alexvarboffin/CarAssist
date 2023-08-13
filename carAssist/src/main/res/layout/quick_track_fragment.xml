@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+   <!-- dynamic new a BaiduMap or GoogleMap
+    <com.car.control.cloud.BaiduMapTrackView
+        android:id="@+id/quick_tarck_mapView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    -->
+</RelativeLayout>

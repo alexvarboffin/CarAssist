@@ -1,0 +1,90 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:tabpage="http://schemas.android.com/apk/res-auto" 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="@color/white" >
+    
+    <LinearLayout
+        android:id="@+id/root_pager_view"
+        android:layout_width="match_parent"
+    	android:layout_height="match_parent"
+    	android:orientation="vertical" >
+        
+	    <com.car.control.CarViewPager
+	        android:id="@+id/viewpager"
+	        android:layout_width="match_parent"
+	        android:layout_height="0dp"
+	        android:layout_weight="1" />
+	    
+	    <TextView
+			android:layout_width="match_parent"
+			android:layout_height="1dp"
+			android:background="#e4e4e4" />
+	    
+	    <LinearLayout
+	        android:id="@+id/navi_bar"
+	        android:layout_width="match_parent"
+	        android:layout_height="@dimen/tab_heigh"
+	        android:orientation="horizontal" >
+
+	        
+	        <com.car.control.TabPageView
+	            android:id="@+id/camera_preview"
+	            android:layout_width="0dp"
+	            android:layout_height="match_parent"
+	            tabpage:tab_normal="@drawable/preview"
+	            tabpage:tab_select="@drawable/preview_ing"
+	            tabpage:tab_text="@string/tab_preview"
+	            android:layout_weight="1" />
+	        
+	        <com.car.control.TabPageView
+	            android:id="@+id/phone_files"
+	            android:layout_width="0dp"
+	            android:layout_height="match_parent"
+	            tabpage:tab_normal="@drawable/phone_files"
+	            tabpage:tab_select="@drawable/phone_files_ing"
+	            tabpage:tab_text="@string/tab_phone_file"
+	            android:layout_weight="1" />
+	        
+	    </LinearLayout>
+    
+    </LinearLayout>
+    
+    <FrameLayout 
+        android:layout_width="match_parent"
+	    android:layout_height="match_parent" >
+	    
+	    <FrameLayout
+	        android:id="@+id/fragment_setting"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:visibility="gone" >
+	
+	        <com.car.control.dvr.QuickSettingFragment2
+	            android:id="@+id/quick_setting_fragment2"
+	            android:layout_width="match_parent"
+	            android:layout_height="match_parent" />         
+	
+	    </FrameLayout>
+    </FrameLayout>
+    
+    <include layout="@layout/preview_cling"
+	    android:id="@+id/preview_cling"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:visibility="gone" />
+    
+    <include layout="@layout/car_cling"
+	    android:id="@+id/car_cling"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:visibility="gone" />
+    
+    <include layout="@layout/phone_cling"
+	    android:id="@+id/phone_cling"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:visibility="gone" />
+
+</FrameLayout>

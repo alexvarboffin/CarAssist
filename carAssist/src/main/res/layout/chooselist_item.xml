@@ -1,0 +1,9 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/text1"
+    android:background="@null"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/chooselist_item_height"
+    android:textColor="@color/tip_list_color"
+    android:textSize="18sp"
+    android:singleLine="true"
+    android:gravity="center_vertical" />

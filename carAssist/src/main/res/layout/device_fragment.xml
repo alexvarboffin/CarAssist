@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView_scan_new"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#40808080"
+        android:padding="10dp"
+        android:text="@string/tip_bond" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:orientation="vertical" >
+        
+        <LinearLayout
+        	android:layout_width="match_parent"
+        	android:layout_height="wrap_content">
+        
+	        <TextView
+	            android:layout_width="0dip"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text="@string/tip_bond_scan_device"
+	            android:textColor="#616161"
+	            android:textSize="14sp" />
+	        
+	        <ImageView
+	            android:id="@+id/more_show_qrcode_sample"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_gravity="right|bottom"
+	            android:padding="10dp"
+	            android:src="@drawable/calendar_month_bottom"/>
+        
+        </LinearLayout>
+        
+        <LinearLayout
+            android:id="@+id/qrcode_sample"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="vertical"
+	        android:visibility="gone" >
+
+	        <ImageView
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_gravity="center_horizontal"
+	            android:src="@drawable/device_sample_qrcode" />
+	
+	        <TextView
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_gravity="center"
+	            android:text="@string/tip_bond_scan_device_1"
+	            android:textColor="#616161"
+	            android:textSize="14sp" />
+	
+	        <TextView
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_gravity="center"
+	            android:text="@string/tip_bond_scan_device_2"
+	            android:textColor="#616161"
+	            android:textSize="14sp" />
+        
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/scan"
+            style="@style/BlueButtonRounded"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/scan" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#808080" />
+
+    <TextView
+        android:id="@+id/textView_scan_new_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="@string/tip_bond_scan_device_manual"
+        android:textColor="#616161"
+        android:textSize="14sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:orientation="vertical" >
+
+        <EditText
+            android:id="@+id/device_adit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/edittext"
+            android:hint="@string/hint_serial"
+            android:imeOptions="actionDone"
+            android:singleLine="true"
+            android:visibility="gone"
+            android:textSize="14sp" />
+
+        <Button
+            android:id="@+id/add_device"
+            style="@style/BlueButtonRounded"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/add_device" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#40808080"
+        android:padding="10dp"
+        android:text="@string/tip_device"
+        android:textColor="#616161" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#e4e4e4" />
+
+    <RelativeLayout 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="10dp">
+        
+        <ListView
+        	android:id="@+id/device_list"
+        	android:layout_width="match_parent"
+        	android:layout_height="match_parent" />
+        
+        <LinearLayout
+            android:id="@+id/no_bond_device_tip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@drawable/press_selector"
+            android:orientation="vertical" >
+	        
+            <TextView
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:text="@string/no_bond_device"
+		        android:gravity="center"
+		        android:textColor="#616161" />
+            
+            <TextView
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:text="@string/how_to_bond"
+		        android:gravity="center"
+		        android:textColor="@color/photo_color" />
+            
+        </LinearLayout>
+        
+    </RelativeLayout>
+
+</LinearLayout>

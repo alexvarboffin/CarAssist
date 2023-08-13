@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/tab_wrapper"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true" >
+
+        <ImageView
+            android:id="@+id/tab_imageview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:scaleType="centerInside"
+            android:src="@drawable/control" />
+
+        <TextView
+            android:id="@+id/tab_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tab_imageview"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tab_preview"
+            android:textColor="@color/grey"
+            android:textSize="12sp" />
+    </RelativeLayout>
+    
+    <ImageView
+           android:id="@+id/tab_imageview_redpoint"
+           android:layout_width="10dp"
+           android:layout_height="10dp"
+           android:layout_alignParentTop="true"
+           android:layout_marginTop="2dp"
+           android:layout_marginLeft="-10dp"
+           android:layout_toRightOf="@id/tab_wrapper"
+           android:scaleType="fitXY"
+           android:src="@drawable/notify_unread_messages"
+           android:visibility="gone" />
+
+</RelativeLayout>
